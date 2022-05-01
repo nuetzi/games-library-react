@@ -1,25 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import Home from "./pages/Home";
+import Library from "./pages/Library";
+import AddGame from "./pages/AddGame";
+import Show from "./pages/Show";
+//import Edit from "./pages/Edit";
+import ErrorPage from "./pages/ErrorPage";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <nav>
+        <Link to="/">Home</Link> &nbsp; | &nbsp;
+        <Link to="/library">Library</Link> &nbsp; | &nbsp;
+        <Link to="/add">Add Game</Link>
+      </nav>
+      <br/>
+      <h1>React Games Library</h1>
+      <br/>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/add" element={<AddGame />} />
+        <Route path="/library" element={<Library />} />
+        <Route path="/:id" element={<Show />} />
+        <Route path="*" element={<ErrorPage />} />
+      </Routes>
+    </Router>
+    
   );
 }
-
-export default App;
