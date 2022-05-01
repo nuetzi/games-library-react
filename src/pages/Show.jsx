@@ -21,12 +21,16 @@ export default function Show() {
         <div className="showGame">
             <h2>{game.title}</h2>
             <img src={`http:${game.cover}`} /> <br/>
-            Genre(s): {game.genres} <br/>
-            Year: {game.year} <br/>
-            Platforms: {game.platforms} <br/>
-            Critics' Rating: {game.rating} <br/>
-            Summary: {game.summary} <br/>
-            <a href={`${game.url}`}>More Info</a> <br/>
+            <div className="showInfo">
+            <ul>
+            <li><b>Genre(s):</b> {game.genres} </li>
+            <li><b>Year:</b> {game.year} </li>
+            <li><b>Platforms:</b> {game.platforms} </li>
+            <li><b>Critics' Rating:</b> {game.rating} </li>
+            <li><b>Summary:</b> {game.summary} </li>
+            <li><a href={`${game.url}`} target="_blank" rel="noopener noreferrer">More Info</a> </li>
+            </ul>
+            </div>
             <br/>
             <br/>
             <button onClick={removeGame}>REMOVE FROM LIBRARY</button>

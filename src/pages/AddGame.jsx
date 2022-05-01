@@ -21,22 +21,25 @@ export default function AddGame() {
     };
 
     return (
-        <div className="main">
+        <div className="addGameContainer">
             <h2>Add a New Game</h2>
-            <form onSubmit={createGame}>
-                Title: <input type="text" name="title" /> <br/>
-                Genres: <input type="text" name="genres" /> <br/>
-                Year: <input type="number" name="year" min="1972" max="2022"/> <br/>
-                Cover: <input type="text" name="cover" /> <br/>
-                Critics' Rating: <input type="number" name="rating" min="0" max="100" step="0.01" /> <br/>
-                Platforms: <input type="text" name="platforms" /> <br/>
-                URL: <input type="text" name="url" /> <br/>
-                <br/>
-                Summary: <textarea name="summary" cols="100" rows="25"></textarea> <br/>
-                <br/>
-                <br/>
-                <input type="submit" />
+            <div className="addGameInfo">
+                <form onSubmit={createGame}>
+                    Title: <input type="text" name="title" /> <br/>
+                    Genres: <input type="text" name="genres" /> <br/>
+                    Year: <input type="number" name="year" min="1972" max="2022"/> <br/>
+                    Cover: <input type="text" name="cover" /> <br/>
+                    Critics' Rating: <input type="number" name="rating" min="0" max="100" step="0.1" /> <br/>
+                    Platforms: <input type="text" name="platforms" /> <br/>
+                    URL: <input type="text" name="url" /> <br/>
+                    <br/>
+                    Summary: <br/>
+                    <textarea name="summary" cols="100" rows="25"></textarea> <br/>
+                    <br/>
+                    <br/>
+                    <input type="submit" />
             </form>
+            </div>
         </div>
     );
 }

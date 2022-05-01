@@ -22,7 +22,7 @@ export function addGame(addedGame) {
     return response;
 };
 
-export function editUser(id, updatedUser) {
-    const response = axios.put(`${LIBRARY_URL}${id}`, updatedUser);
+export function editGame(id, updatedGame) {
+    const response = axios.put(`${LIBRARY_URL}${id}`, updatedGame);
     return response;
 };
