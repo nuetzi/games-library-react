@@ -7,7 +7,7 @@ export default function Library() {
     useEffect(() => {
         getLibrary()
         .then(res => setGames(res.data))
-    }, []);
+    }, [games]);
 
     return(
         <div className="libraryMain">

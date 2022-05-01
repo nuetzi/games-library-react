@@ -22,6 +22,7 @@ export default function App() {
         <Route path="/" element={<Home />} />
         <Route path="/add" element={<AddGame />} />
         <Route path="/library" element={<Library />} />
+        <Route path="/undefined" element={<ErrorPage />} />
         <Route path="/:id" element={<Show />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>

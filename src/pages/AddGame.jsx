@@ -13,10 +13,11 @@ export default function AddGame() {
             cover: e.target.cover.value,
             rating: e.target.rating.value,
             platforms: e.target.platforms.value,
-            summary: e.target.summary.value
+            summary: e.target.summary.value,
+            url: e.target.url.value
         };
         addGame(newGame);
-        navigate("/");
+        navigate("/library");
     };
 
     return (
@@ -27,10 +28,13 @@ export default function AddGame() {
                 Genres: <input type="text" name="genres" /> <br/>
                 Year: <input type="number" name="year" min="1972" max="2022"/> <br/>
                 Cover: <input type="text" name="cover" /> <br/>
-                Rating: <input type="number" name="rating" min="0" max="100" step="0.01" /> <br/>
+                Critics' Rating: <input type="number" name="rating" min="0" max="100" step="0.01" /> <br/>
                 Platforms: <input type="text" name="platforms" /> <br/>
+                URL: <input type="text" name="url" /> <br/>
                 <br/>
-                <textarea name="summary" cols="100" rows="25"></textarea> <br/>
+                Summary: <textarea name="summary" cols="100" rows="25"></textarea> <br/>
+                <br/>
+                <br/>
                 <input type="submit" />
             </form>
         </div>
