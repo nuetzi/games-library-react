@@ -1,5 +1,4 @@
 import axios from "axios";
-const IGDB_URL = "https://pb1et55wz5.execute-api.us-west-2.amazonaws.com/production/v4/";
 
 // export function getTopRated() {
 //     const axios = require('axios');
@@ -7,7 +6,7 @@ const IGDB_URL = "https://pb1et55wz5.execute-api.us-west-2.amazonaws.com/product
 
 //     let config = {
 //         method: 'post',
-//         url: 'https://pb1et55wz5.execute-api.us-west-2.amazonaws.com/production/v4/games',
+//         url: '{AWS_URL}/games',
 //         headers: { 
 //             'Content-Type': 'text/plain'
 //         },

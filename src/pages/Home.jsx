@@ -4,10 +4,10 @@ import { getTopRated } from "../services/igdbAPI";
 export default function Home() {
     const [games, setGames] = useState([]);
 
-    useEffect(() => {
-        getTopRated()
-        .then(res => setGames(res.data))
-    }, []);
+    // useEffect(() => {
+    //     getTopRated()
+    //     .then(res => setGames(res.data))
+    // }, []);
 
     return(
         <div>
