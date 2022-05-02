@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import Library from "./pages/Library";
 import AddGame from "./pages/AddGame";
 import Show from "./pages/Show";
-//import Edit from "./pages/Edit";
+import Edit from "./pages/Edit";
 import ErrorPage from "./pages/ErrorPage";
 
 export default function App() {
@@ -24,6 +24,7 @@ export default function App() {
         <Route path="/library" element={<Library />} />
         <Route path="/undefined" element={<ErrorPage />} />
         <Route path="/:id" element={<Show />} />
+        <Route path="/:id/edit" element={<Edit />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
     </Router>

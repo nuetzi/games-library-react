@@ -1,6 +1,5 @@
 import axios from "axios";
 const LIBRARY_URL = "https://nuetzi-games-express.herokuapp.com/library/";
-const GAMES_URL = "https://nuetzi-games-express.herokuapp.com/igdb/";
 
 export function getLibrary () {
     const response = axios.get(LIBRARY_URL);

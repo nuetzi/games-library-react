@@ -17,7 +17,7 @@ export default function Library() {
                     return(
                         <div className="gamesDisplay" key={i}>
                             <h3><a href={`/${each._id}`}>{each.title}</a></h3>
-                            <a href={`/${each._id}`}><img src={`http:${each.cover}`} /></a>
+                            <a href={`/${each._id}`}><img src={`${each.cover}`} /></a>
                         </div>
                     );
                 })}

@@ -29,7 +29,7 @@ export default function AddGame() {
                     Genres: <input type="text" name="genres" /> <br/>
                     Year: <input type="number" name="year" min="1972" max="2022"/> <br/>
                     Cover: <input type="text" name="cover" /> <br/>
-                    Critics' Rating: <input type="number" name="rating" min="0" max="100" step="0.1" /> <br/>
+                    Rating: <input type="number" name="rating" min="0" max="100" step="0.1" /> <br/>
                     Platforms: <input type="text" name="platforms" /> <br/>
                     URL: <input type="text" name="url" /> <br/>
                     <br/>
