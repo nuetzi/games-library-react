@@ -12,6 +12,10 @@ const TOP_PS2_URL = "https://nuetzi-games-express.herokuapp.com/topps2/";
 const TOP_PS3_URL = "https://nuetzi-games-express.herokuapp.com/topps3/";
 const TOP_PS4_URL = "https://nuetzi-games-express.herokuapp.com/topps4/";
 const TOP_PS5_URL = "https://nuetzi-games-express.herokuapp.com/topps5/";
+const TOP_XBOX_URL = "https://nuetzi-games-express.herokuapp.com/xbox/";
+const TOP_XBOX360_URL = "https://nuetzi-games-express.herokuapp.com/xbox360/";
+const TOP_XBOXONE_URL = "https://nuetzi-games-express.herokuapp.com/xboxone/";
+const TOP_XBOXSERIESX_URL = "https://nuetzi-games-express.herokuapp.com/xboxseriesx/";
 
 export function getTopRated() {
     const response = axios.get(`${TOP_RATED_URL}`);
@@ -75,6 +79,26 @@ export function getTopPS4() {
 
 export function getTopPS5() {
     const response = axios.get(`${TOP_PS5_URL}`);
+    return response;
+};
+
+export function getTopXbox() {
+    const response = axios.get(`${TOP_XBOX_URL}`);
+    return response;
+};
+
+export function getTopXbox360() {
+    const response = axios.get(`${TOP_XBOX360_URL}`);
+    return response;
+};
+
+export function getTopXboxOne() {
+    const response = axios.get(`${TOP_XBOXONE_URL}`);
+    return response;
+};
+
+export function getTopXboxSeriesX() {
+    const response = axios.get(`${TOP_XBOXSERIESX_URL}`);
     return response;
 };
 

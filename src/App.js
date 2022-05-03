@@ -62,6 +62,7 @@ export default function App() {
         <Route path="/library/:id" element={<LibraryShow />} />
         <Route path="/library/:id/edit" element={<Edit />} />
         <Route path="/n64" element={<N64 />} />
+        <Route path="/n64/:id" element={<QueryShow />} />
         <Route path="/nes" element={<NES />} />
         <Route path="/nds" element={<NintendoDS />} />
         <Route path="/ps1" element={<Playstation1 />} />

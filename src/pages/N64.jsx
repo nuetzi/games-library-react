@@ -16,7 +16,7 @@ export default function N64() {
                 {games.map((each, i) => {
                     return(
                         <div className="importsDisplay" key={i}>
-                            <h4><a href={`/${each._id}`}>{each.name}</a></h4>
+                            <h4><a href={`/n64/${each._id}`}>{each.name}</a></h4>
                             <a href={`${each.url}`}><img src={`https:${each.cover.url}`} alt={each.title}/></a>
                         </div>
                     );
