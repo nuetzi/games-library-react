@@ -1,17 +1,24 @@
-import GamecubeGames from "../queries/topGamecube.json";
+import { useState, useEffect } from "react";
+import { getTopGamecube } from "../services/importsAPI";
 
-export default function NES() {
+export default function Gamecube() {
+    const [games, setGames] = useState([]);
+
+    useEffect(() => {
+        getTopGamecube()
+        .then(res => setGames(res.data))
+    }, [games]);
+
     return(
-        <div className="queryPage">
+        <div className="libraryMain">
             <h2>Nintendo GameCube</h2>
-            <div className="queryContainer">
-                {GamecubeGames.map((each, i) => {
+            <div className="importsContainer">
+                {games.map((each, i) => {
                     return(
-                        <ul>
-                        <li key={i}>
-                        <a href={each.id}>{each.name}</a> <br/>
-                        </li>
-                        </ul>
+                        <div className="importsDisplay" key={i}>
+                            <h4><a href={`/${each._id}`}>{each.name}</a></h4>
+                            <a href={`${each.url}`}><img src={`https:${each.cover.url}`} alt={each.title}/></a>
+                        </div>
                     );
                 })}
             </div>

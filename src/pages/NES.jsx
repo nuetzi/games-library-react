@@ -1,17 +1,24 @@
-import NESGames from "../queries/topNES.json";
+import { useState, useEffect } from "react";
+import { getTopNES } from "../services/importsAPI";
 
 export default function NES() {
+    const [games, setGames] = useState([]);
+
+    useEffect(() => {
+        getTopNES()
+        .then(res => setGames(res.data))
+    }, [games]);
+
     return(
-        <div className="queryPage">
+        <div className="libraryMain">
             <h2>Nintendo Entertainment System (NES)</h2>
-            <div className="queryContainer">
-                {NESGames.map((each, i) => {
+            <div className="importsContainer">
+                {games.map((each, i) => {
                     return(
-                        <ul>
-                        <li key={i}>
-                        <a href={each.id}>{each.name}</a> <br/>
-                        </li>
-                        </ul>
+                        <div className="importsDisplay" key={i}>
+                            <h4><a href={`/${each._id}`}>{each.name}</a></h4>
+                            <a href={`${each.url}`}><img src={`https:${each.cover.url}`} alt={each.title}/></a>
+                        </div>
                     );
                 })}
             </div>

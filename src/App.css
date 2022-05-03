@@ -35,9 +35,19 @@ a:visited {
   column-count: 2;
 }
 
+.importsContainer {
+  width: 49%;
+  margin: auto;
+  margin-bottom: 20px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
 .gamesContainer {
   width: 50%;
   margin: auto;
+  margin-bottom: 20px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   row-gap: 50px;

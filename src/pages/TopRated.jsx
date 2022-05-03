@@ -1,19 +1,24 @@
-import TopRatedGames from "../queries/topRated.json";
+import { useState, useEffect } from "react";
+import { getTopRated } from "../services/importsAPI";
 
 export default function TopRated() {
+    const [games, setGames] = useState([]);
+
+    useEffect(() => {
+        getTopRated()
+        .then(res => setGames(res.data))
+    }, [games]);
+
     return(
-        <div className="queryPage">
+        <div className="libraryMain">
             <h2>Top Rated Games</h2>
-            <p><i>NOTE: Ratings are based on results from IGDP query, so take the results with a grain of salt</i></p> <br/>
-            <div className="queryContainer">
-                {TopRatedGames.map((each, i) => {
+            <div className="importsContainer">
+                {games.map((each, i) => {
                     return(
-                        <ul>
-                        <li key={i}>
-                        <a href={each.id}>{each.name}</a> <br/>
-                        {/* <img src={`https:${each.cover.url}`} /> */}
-                        </li>
-                        </ul>
+                        <div className="importsDisplay" key={i}>
+                            <h4><a href={`/${each._id}`}>{each.name}</a></h4>
+                            <a href={`${each.url}`}><img src={`https:${each.cover.url}`} alt={each.title} /></a>
+                        </div>
                     );
                 })}
             </div>
