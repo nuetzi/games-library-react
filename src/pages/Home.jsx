@@ -3,11 +3,11 @@ import { useState, useEffect } from "react";
 export default function Home() {
    return(
        <div className="homeContainer">
-           Welcome to my video game library, which I have created using Javascript and MERN techniques. I have attempted to include as many games as possible, but due to some limitations (such as time and my skill level), there are likely to be games missing. I chose to limit my queries to games above a certain "rating," as determined by a combination of critic and user ratings on the Internet Games Database. <br/>
+           Welcome to my video game library, which I have created using Javascript and MERN techniques. I have attempted to include as many games as possible, but due to some limitations (such as time and my skill level), there are games missing. I chose to limit my queries to games above a certain "rating," as determined by a combination of critic and user ratings on the Internet Games Database. <br/>
            <br/>
            The links below will allow you to explore games from numerous popular video game consoles. Again, I have opted to be selective in my choices, as there are a number of obscure and/or outdated consoles that lie beyond the scope of the games I am interested in listing. Also, due to the sheer volume of games available on the PC, I couldn't find an adequate way to represent them here. Fortunately, many great modern PC games are being ported to today's consoles.<br/>
            <br/>
-           I have also included a link to a representation of my personal game library. These include games I have enjoyed, as well as a little information about each of them. <br/>
+           I have also included a link to a small representation of my personal game library. These include games I have enjoyed, as well as a little information about each of them. This is a work in progress, so some links are broken and mobile view is probably broken - and my library isn't secured yet (please don't edit it).<br/>
            <br/>
            <center>Thank you for visiting, and I hope you enjoy! <br/>
            <h2><a href="/library">My Game Library</a></h2> </center>
@@ -50,6 +50,12 @@ export default function Home() {
                     <li><a href="/xboxone">Xbox One</a></li>
                     <li><a href="/xboxseriesx">Xbox Series X|S</a></li>
             </div>
+            <br/>
+            <br/>
+            <br/>
+            <p>Source code links: <br/>
+            <li><a href="https://github.com/nuetzi/games-library-react" target="_blank" rel="noopener noreferrer">Front End</a></li>
+            <li><a href="https://github.com/nuetzi/games-library-express" target="_blank" rel="noopener noreferrer">Back End</a></li></p>
        </div>
    )
 }
