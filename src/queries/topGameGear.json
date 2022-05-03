@@ -1,0 +1,4489 @@
+[
+  {
+    "id": 8908,
+    "cover": {
+      "id": 196195,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co47dv.jpg"
+    },
+    "first_release_date": 725760000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 27531,
+        "company": {
+          "id": 141,
+          "name": "Virgin Interactive Entertainment (Europe) Ltd."
+        }
+      },
+      {
+        "id": 36648,
+        "company": {
+          "id": 287,
+          "name": "Acclaim Entertainment"
+        }
+      },
+      {
+        "id": 36649,
+        "company": {
+          "id": 2424,
+          "name": "Arena Entertainment"
+        }
+      },
+      {
+        "id": 36651,
+        "company": {
+          "id": 10164,
+          "name": "Eden Entertainment Software"
+        }
+      },
+      {
+        "id": 64615,
+        "company": {
+          "id": 2566,
+          "name": "LJN"
+        }
+      },
+      {
+        "id": 113715,
+        "company": {
+          "id": 532,
+          "name": "Probe Entertainment"
+        }
+      },
+      {
+        "id": 113716,
+        "company": {
+          "id": 1330,
+          "name": "Bits Studios"
+        }
+      },
+      {
+        "id": 113717,
+        "company": {
+          "id": 1791,
+          "name": "Acclaim Japan"
+        }
+      }
+    ],
+    "name": "Alien 3",
+    "platforms": [
+      {
+        "id": 15,
+        "name": "Commodore C64/128"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 73.4025488181945,
+    "storyline": "Loosely based off of the movie franchise, the main character Ripley arrives at Fiorina \"Fury\" 161, and she finds the planet is infested by Xenomorph Runnera. She is equipped with Colonial Marine equipment to defend herself while rescuing prisoners that are captured by the Aliens.",
+    "summary": "Alien³ was released after the Alien 3 film. After success on the Super Nintendo and Genesis platforms, the game was built and ported to other systems, including the Commodore 64 and Game Gear. The game is set on the world of the film, Fury 161, but the gameplay has more in common with the film Aliens, throwing wave after wave of enemies at the player.",
+    "total_rating": 73.4025488181945,
+    "url": "https://www.igdb.com/games/alien-3"
+  },
+  {
+    "id": 20809,
+    "aggregated_rating": 80.0,
+    "cover": {
+      "id": 115296,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gyo.jpg"
+    },
+    "first_release_date": 810172800,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 78956,
+        "company": {
+          "id": 532,
+          "name": "Probe Entertainment"
+        }
+      },
+      {
+        "id": 78957,
+        "company": {
+          "id": 287,
+          "name": "Acclaim Entertainment"
+        }
+      }
+    ],
+    "name": "Batman Forever",
+    "platforms": [
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      }
+    ],
+    "summary": "The Game Gear version of Batman Forever",
+    "total_rating": 80.0,
+    "url": "https://www.igdb.com/games/batman-forever--4"
+  },
+  {
+    "id": 2970,
+    "cover": {
+      "id": 210056,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4i2w.jpg"
+    },
+    "first_release_date": 675734400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 126946,
+        "company": {
+          "id": 1384,
+          "name": "Tradewest Inc"
+        }
+      },
+      {
+        "id": 126947,
+        "company": {
+          "id": 489,
+          "name": "Mindscape"
+        }
+      },
+      {
+        "id": 126948,
+        "company": {
+          "id": 1218,
+          "name": "Arc System Works"
+        }
+      },
+      {
+        "id": 126949,
+        "company": {
+          "id": 771,
+          "name": "Rare"
+        }
+      },
+      {
+        "id": 126950,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      },
+      {
+        "id": 126951,
+        "company": {
+          "id": 10068,
+          "name": "Masaya"
+        }
+      }
+    ],
+    "name": "Battletoads",
+    "platforms": [
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 99,
+        "name": "Family Computer"
+      },
+      {
+        "id": 114,
+        "name": "Amiga CD32"
+      }
+    ],
+    "rating": 77.6271097532763,
+    "storyline": "Fresh from her recent defeat at the Battle of Canis Major, the Dark Queen decides to take out her aggressions on her archenemies, the Battletoads. The \u0027Toads and their mentor, Professor T-Bird, are currently escorting Princess Angelica home to her father, the Terran Emperor. During a rest stop, Pimple takes Angelica out for a drive in the Toadster, but the vehicle and its occupants are swallowed up by the Dark Queen\u0027s ship, the Gargantua, and taken to her tower on planet Ragnarok.\nRash and Zitz are quickly sent down to Ragnarok\u0027s surface to rescue their friends, unaware of the dangers that await them, but willing to chance it all on their rescue mission.",
+    "summary": "Battletoads is the first game of the Battletoads series. It is developed by Rare and published by Tradewest. It was originally released for Nintendo Entertainment System in 1991, with ports for the Sega Genesis, Sega Game Gear, Amiga CD32 and Nintendo Game Boy (with the subtitle Battletoads in Ragnarok\u0027s World so as to separate it from the earlier-released Game Boy sequel).\n\nBattletoads is considered to be a game that shows the true potential of the NES\u0027 graphics, mainly due to the year of its release, when developers were focusing more on 16-bit consoles.\n\nNot only is it graphically-advanced, but it is also considered to be one of the hardest games of all time, appearing in possibly every listing of difficult video games. It is currently listen at 8th place in IGN\u0027s \"Top 10 Most Difficult Games to Beat.\"\n\nIt was re released in 2015 on the Xbox One as part of the Rare Replay Collection.",
+    "total_rating": 77.6271097532763,
+    "url": "https://www.igdb.com/games/battletoads"
+  },
+  {
+    "id": 2630,
+    "aggregated_rating": 80.0,
+    "cover": {
+      "id": 213190,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4khy.jpg"
+    },
+    "first_release_date": 519264000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 19519,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      },
+      {
+        "id": 51912,
+        "company": {
+          "id": 1375,
+          "name": "Firebird"
+        }
+      },
+      {
+        "id": 51915,
+        "company": {
+          "id": 13104,
+          "name": "Ving Co., Ltd."
+        }
+      },
+      {
+        "id": 51916,
+        "company": {
+          "id": 10317,
+          "name": "Micomsoft"
+        }
+      },
+      {
+        "id": 165692,
+        "company": {
+          "id": 1440,
+          "name": "Taito Corporation"
+        }
+      },
+      {
+        "id": 165693,
+        "company": {
+          "id": 1440,
+          "name": "Taito Corporation"
+        }
+      }
+    ],
+    "name": "Bubble Bobble",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 15,
+        "name": "Commodore C64/128"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 25,
+        "name": "Amstrad CPC"
+      },
+      {
+        "id": 26,
+        "name": "ZX Spectrum"
+      },
+      {
+        "id": 27,
+        "name": "MSX"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 55,
+        "name": "Legacy Mobile Device"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 75,
+        "name": "Apple II"
+      },
+      {
+        "id": 118,
+        "name": "FM Towns"
+      },
+      {
+        "id": 121,
+        "name": "Sharp X68000"
+      }
+    ],
+    "rating": 76.0955850985944,
+    "summary": "In the game, each player controls one of the two Bubble Dragons, Bub and Bob. The player can move along platforms, as well as jump to those above and to the side, similar to most platform games.\n\nThe player can also blow bubbles. These can trap enemies, who are defeated if the bubble is then burst by the player\u0027s spiny back. Bubbles that contain enemies can be popped at the same time resulting in different foods being projected around the level. Each enemy trapped in a bubble equates to a different food. Food is consumed and transferred to points (an increasing scale of 1000 points is awarded for each enemy burst in tandem with another meaning: one enemy burst equals one food item worth 1000 points, two enemies burst equals two food items worth 1000 and 2000 points, three enemies burst equals three food items worth 1000, 2000 and 4000 points, and so on), which results in earning lives. These same bubbles also float for a time before bursting, and can be jumped on, allowing access to otherwise inaccessible areas. Players progress to the next level once all enemies on the current level are defeated.\n\nEnemies turn \"angry\" — becoming pink-colored and moving faster — if they are the last enemy remaining, escape from a bubble after being left too long or a certain amount of time has been spent on the current level. A monster will also become angry if either player collects a skull (the only negative item in the game), and the monster is hit by the resulting comet crossing the screen (however, this is a rare occurrence).\n\nAfter a further time limit expires, an additional invincible enemy appears for each player, actively chasing them using only vertical and horizontal movements. These do not need to be defeated to complete the level, and disappear once a player\u0027s life is lost.\n\nContact with enemies and their projectiles (rocks, lasers, fireballs, etc.) results in death.",
+    "total_rating": 78.0477925492972,
+    "url": "https://www.igdb.com/games/bubble-bobble"
+  },
+  {
+    "id": 28391,
+    "cover": {
+      "id": 132880,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2uj4.jpg"
+    },
+    "first_release_date": 759110400,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 46376,
+        "company": {
+          "id": 1440,
+          "name": "Taito Corporation"
+        }
+      }
+    ],
+    "name": "Bust-A-Move",
+    "platforms": [
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 50,
+        "name": "3DO Interactive Multiplayer"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 79,
+        "name": "Neo Geo MVS"
+      },
+      {
+        "id": 80,
+        "name": "Neo Geo AES"
+      },
+      {
+        "id": 136,
+        "name": "Neo Geo CD"
+      },
+      {
+        "id": 306,
+        "name": "Satellaview"
+      }
+    ],
+    "rating": 76.0496773358693,
+    "summary": "Bust-A-Move (also known as Puzzle Bobble) is a real-time puzzle game in which the player controls a device called \"pointer\" at the bottom of the screen, aiming and releasing randomly colored bubbles upwards. Depending on the aiming, the bubbles may float up directly or bounce off the walls, changing their trajectory. The goal is to aim the bubbles in such a way that they will touch identically colored ones. When such bubbles form a group of three or more, they pop and disappear from the screen.\n\nIf the ceiling of the area is covered by too many bubbles, it will gradually descend; the game is over when it nearly reaches the player-controlled pointer. Should the player fail to release the bubbles within a specific time limit, they will be released automatically, unaffected by the pointer\u0027s aiming.",
+    "total_rating": 76.0496773358693,
+    "url": "https://www.igdb.com/games/bust-a-move"
+  },
+  {
+    "id": 7824,
+    "cover": {
+      "id": 110831,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2din.jpg"
+    },
+    "first_release_date": 757382400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 18264,
+        "company": {
+          "id": 1329,
+          "name": "Teeny Weeny Games"
+        }
+      },
+      {
+        "id": 18265,
+        "company": {
+          "id": 608,
+          "name": "Broderbund"
+        }
+      },
+      {
+        "id": 18266,
+        "company": {
+          "id": 804,
+          "name": "Beam Software"
+        }
+      },
+      {
+        "id": 18267,
+        "company": {
+          "id": 512,
+          "name": "Ocean"
+        }
+      },
+      {
+        "id": 18268,
+        "company": {
+          "id": 1767,
+          "name": "Victor Interactive Software"
+        }
+      },
+      {
+        "id": 18269,
+        "company": {
+          "id": 3722,
+          "name": "Extreme Entertainment Group"
+        }
+      }
+    ],
+    "name": "Choplifter III",
+    "platforms": [
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      }
+    ],
+    "rating": 87.4890419243347,
+    "summary": "In this third installment of the Choplifter series, it is once again your job to fly your helicopter through enemy territory to rescue hostages. The helicopter does not only take damage from enemy fire, but also from contact with buildings, trees, walls etc., which makes some levels difficult to navigate.",
+    "total_rating": 87.4890419243347,
+    "url": "https://www.igdb.com/games/choplifter-iii"
+  },
+  {
+    "id": 6798,
+    "cover": {
+      "id": 118761,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2jmx.jpg"
+    },
+    "first_release_date": 696902400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 112525,
+        "company": {
+          "id": 578,
+          "name": "Gremlin Interactive"
+        }
+      },
+      {
+        "id": 112527,
+        "company": {
+          "id": 2759,
+          "name": "Telegames"
+        }
+      },
+      {
+        "id": 154725,
+        "company": {
+          "id": 1271,
+          "name": "Ocean Software"
+        }
+      },
+      {
+        "id": 154726,
+        "company": {
+          "id": 38869,
+          "name": "Foresight New Media"
+        }
+      },
+      {
+        "id": 154727,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        }
+      },
+      {
+        "id": 154728,
+        "company": {
+          "id": 17194,
+          "name": "Domark"
+        }
+      },
+      {
+        "id": 154729,
+        "company": {
+          "id": 16783,
+          "name": "Malibu Games"
+        }
+      },
+      {
+        "id": 154913,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        }
+      }
+    ],
+    "name": "Desert Strike: Return to the Gulf",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 24,
+        "name": "Game Boy Advance"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 61,
+        "name": "Atari Lynx"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 82.2736530198039,
+    "storyline": "After terrorist leader General Kilbaba has seized control of an unnamed \"small but wealthy\" Gulf emirate, overthrown the monarchy and installed himself as dictator, the United States sends a lone helicopter to destroy his army in a series of swift strikes. The game\u0027s plot was felt by commentators to be a thinly disguised reference to the Gulf War, while comparisons were drawn between Kilbaba and Saddam Hussein, and between the game\u0027s unnamed desert setting and Iraq",
+    "summary": "Desert Strike: Return to the Gulf, commonly known as Desert Strike, is a shoot \u0027em up video game released by Electronic Arts (EA) in February 1992 for Sega\u0027s Mega Drive. The game was later released on several other formats such as the SNES, including a much upgraded version for the Amiga home computer. The game was inspired by the Gulf War and depicts a conflict between an insane Middle Eastern dictator, General Kilbaba, and the United States. The player controls a lone Apache helicopter and attempts to destroy enemy weapons and installations, rescue hostages and capture enemy personnel, while managing supplies of fuel and ammunition.",
+    "total_rating": 82.2736530198039,
+    "url": "https://www.igdb.com/games/desert-strike-return-to-the-gulf"
+  },
+  {
+    "id": 106270,
+    "cover": {
+      "id": 183696,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3xqo.jpg"
+    },
+    "first_release_date": 788832000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 67812,
+        "company": {
+          "id": 1069,
+          "name": "SIMS Co., Ltd"
+        }
+      },
+      {
+        "id": 67813,
+        "company": {
+          "id": 229,
+          "name": "SEGA of America"
+        }
+      },
+      {
+        "id": 95163,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        }
+      }
+    ],
+    "name": "Disney\u0027s Aladdin",
+    "platforms": [
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 75.8298366021855,
+    "summary": "This version of Disney\u0027s Aladdin is a completely different game than either the SNES or Genesis versions, and was only released for SEGA\u0027s 8-bit systems, Master System \u0026 Game Gear. It has a classic-era Prince of Persia kind of gameplay.\n\nLike the other versions, it is a side-scrolling action game. The player controls Aladdin, making his way through a variety of locations, including the streets of Agrabah, the Cave of Wonders, the Sultan\u0027s palace and more. Gameplay takes several different forms: some levels are chases, where Aladdin runs automatically, but must be made to jump over chasms or rolling rocks and barrels, evade falling objects and avoid getting caught by a guard. Other levels are platforming affairs: Aladdin must run, jump and climb, find keys or switches to open doors while searching for the exit. Rocks can be collected and be thrown to dispatch enemies or hit buttons otherwise out of reach. Finally, there are also several magic carpet rides in the game, in which the level scrolls automatically and the player must make sure to avoid any obstacles in the way.",
+    "total_rating": 75.8298366021855,
+    "url": "https://www.igdb.com/games/disneys-aladdin--1"
+  },
+  {
+    "id": 22744,
+    "cover": {
+      "id": 176546,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3s82.jpg"
+    },
+    "first_release_date": 776044800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 38683,
+        "company": {
+          "id": 861,
+          "name": "Treasure"
+        }
+      },
+      {
+        "id": 38684,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      }
+    ],
+    "name": "Dynamite Headdy",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 8,
+        "name": "PlayStation 2"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 72.4882503020228,
+    "storyline": "Headdy, the central protagonist of the game, arrives in North Town to find that the evil puppet King Dark Demon is in the midst of attacking the puppet town to select which of the peaceful toys should live and which should be converted into his evil minions. Headdy is captured and rejected by Dark Demon\u0027s forces, and is dropped into the dust cargo to be thrown into the incinerator. However, Headdy escapes the clutches of Dark Demon\u0027s minions and sets off to defeat the evil king.\n\nHowever, trouble is afoot. Not only is the puppet world filled with Dark Demon\u0027s minions, but to reach the evil overlord\u0027s castle, Headdy must defeat Dark Demon\u0027s Keymasters who serve as the king\u0027s elite guard. To make matters worse, Headdy is followed by Trouble Bruin, a puppet jealous of Headdy\u0027s success. Trouble Bruin wants to be the star instead of Headdy, and will stop at nothing to get rid of him.",
+    "summary": "Dynamite Headdy is a platform game in which the player controls Headdy, a puppet with a detachable head. This head can be fired in eight directions to attack enemies and obstacles, as well as retrieve out of reach items. By grabbing a HangMan, Headdy is able to pull himself up various platforms, or drag certain areas towards him. By finding a walking case named HeadCase, Headdy can gain a special head type depending on the image shown on HeadCase at the time he hits it. These range from offensive heads that increase his strength, allows him to shoot homing stars or suck up everything on screen, to support heads which include invulnerability, shrinking to reach small areas and sleeping to regain health. Most of these heads have a time limit before the head returns to normal, with the player able to cancel at any time, though some heads, such as the Pin Head, disable manual cancellation. The game also features a side-scrolling shooter stage, during which Headdy can change between three unique Head Types.",
+    "total_rating": 72.4882503020228,
+    "url": "https://www.igdb.com/games/dynamite-headdy"
+  },
+  {
+    "id": 3480,
+    "aggregated_rating": 75.5,
+    "cover": {
+      "id": 93896,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20g8.jpg"
+    },
+    "first_release_date": 780969600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 99609,
+        "company": {
+          "id": 5340,
+          "name": "Kinesoft"
+        }
+      },
+      {
+        "id": 99610,
+        "company": {
+          "id": 2813,
+          "name": "Game Titan"
+        }
+      },
+      {
+        "id": 99611,
+        "company": {
+          "id": 425,
+          "name": "Eurocom"
+        }
+      },
+      {
+        "id": 110738,
+        "company": {
+          "id": 88,
+          "name": "Shiny Entertainment"
+        }
+      },
+      {
+        "id": 110739,
+        "company": {
+          "id": 91,
+          "name": "Playmates Interactive Entertainment"
+        }
+      },
+      {
+        "id": 110740,
+        "company": {
+          "id": 141,
+          "name": "Virgin Interactive Entertainment (Europe) Ltd."
+        }
+      },
+      {
+        "id": 110741,
+        "company": {
+          "id": 863,
+          "name": "Takara"
+        }
+      },
+      {
+        "id": 110742,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        }
+      }
+    ],
+    "name": "Earthworm Jim",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 24,
+        "name": "Game Boy Advance"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 76.7275507273583,
+    "storyline": "Jim is a normal earthworm, until a special \"super suit\" falls from the sky and allows him to operate much like a human, with his \"worm-part\" acting as a head and the suit acting as arms, body, and legs. Jim\u0027s task is two-fold, he must evade the game\u0027s many antagonists, who are after him because they want the suit back, and also rescue and protect Princess What\u0027s-Her-Name from them. The game plays out with Jim eluding and defeating all enemies, and saving Princess What\u0027s-Her-Name. However, not only does she not return Jim\u0027s affection, but she is also crushed by the flying cow that was launched at the beginning of the game by Jim himself.",
+    "summary": "A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship\u0027s captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What\u0027s-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth.\n\nBack on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim, causing a light-speed evolution. Jim soon realizes he is in control of the suit.\n\nJim overhears the Queen\u0027s plans for the suit and decides to meet this Princess...",
+    "total_rating": 76.11377536367915,
+    "url": "https://www.igdb.com/games/earthworm-jim"
+  },
+  {
+    "id": 5379,
+    "cover": {
+      "id": 114832,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gls.jpg"
+    },
+    "first_release_date": 777772800,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13010,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      },
+      {
+        "id": 13011,
+        "company": {
+          "id": 2359,
+          "name": "Novotrade"
+        }
+      }
+    ],
+    "name": "Ecco: The Tides of Time",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 78,
+        "name": "Sega CD"
+      }
+    ],
+    "rating": 70.0112047249577,
+    "summary": "Ecco must stop the Vortex! He is “the stone that splits the stream of time.” He now faces his most dangerous quest yet. For it is not just his dolphin pod at stake, but the Earth and all living beings!",
+    "total_rating": 70.0112047249577,
+    "url": "https://www.igdb.com/games/ecco-the-tides-of-time"
+  },
+  {
+    "id": 19701,
+    "cover": {
+      "id": 161941,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3gyd.jpg"
+    },
+    "first_release_date": 691545600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36721,
+        "company": {
+          "id": 341,
+          "name": "Bullet-Proof Software"
+        }
+      },
+      {
+        "id": 36722,
+        "company": {
+          "id": 10167,
+          "name": "Xanth Software F/X"
+        }
+      },
+      {
+        "id": 36723,
+        "company": {
+          "id": 4530,
+          "name": "Riverhillsoft"
+        }
+      }
+    ],
+    "name": "Faceball 2000",
+    "platforms": [
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 86,
+        "name": "TurboGrafx-16/PC Engine"
+      }
+    ],
+    "rating": 76.0,
+    "summary": "Welcome to the exciting new world of FaceBall 2000, where 3D graphics, first person perspective and 360° maneuverability make you feel like you\u0027re inside your video game! What you see is where you are, as you team up, compete with a friend or play alone against computer-controlled opponents.\n\nTransport yourself inside the walls of CyberZone, where you\u0027ll be surrounded by menacing enemies lurking in a series of treacherous mazes. Or, enter the Arena where \" Have a Nice Day\" takes on a whole new meaning in fast-paced rounds of high-tech combat.\n\nWherever you go in FaceBall 2000, it\u0027s your chance to wipe the smiles off those annoying happy faces - and maybe a few of your friends - once and for all!",
+    "total_rating": 76.0,
+    "url": "https://www.igdb.com/games/faceball-2000"
+  },
+  {
+    "id": 12089,
+    "cover": {
+      "id": 107792,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2b68.jpg"
+    },
+    "first_release_date": 748569600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 92400,
+        "company": {
+          "id": 115,
+          "name": "Codemasters"
+        }
+      }
+    ],
+    "name": "Fantastic Dizzy",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 89.6406768978425,
+    "summary": "Dizzy is an egg living in a world of magic and fantasy. The basic concept of the game is to move around the world, finding various items and collectibles, and to use them in the right locations. Dizzy has no special skills or abilities, save for his remarkable feats of somersaulting, and must solve all problems he faces with the clever use of one or more items.",
+    "total_rating": 89.6406768978425,
+    "url": "https://www.igdb.com/games/fantastic-dizzy"
+  },
+  {
+    "id": 5385,
+    "aggregated_rating": 70.0,
+    "cover": {
+      "id": 154501,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3b7p.jpg"
+    },
+    "first_release_date": 727142400,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13028,
+        "company": {
+          "id": 864,
+          "name": "Hudson Soft"
+        }
+      },
+      {
+        "id": 13029,
+        "company": {
+          "id": 2381,
+          "name": "Magical Company"
+        }
+      },
+      {
+        "id": 13030,
+        "company": {
+          "id": 863,
+          "name": "Takara"
+        }
+      },
+      {
+        "id": 13031,
+        "company": {
+          "id": 787,
+          "name": "Aspect"
+        }
+      },
+      {
+        "id": 13032,
+        "company": {
+          "id": 458,
+          "name": "Funcom"
+        }
+      },
+      {
+        "id": 53320,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        }
+      },
+      {
+        "id": 53321,
+        "company": {
+          "id": 2380,
+          "name": "JVC Musical Industries"
+        }
+      }
+    ],
+    "name": "Fatal Fury Special",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 8,
+        "name": "PlayStation 2"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      },
+      {
+        "id": 77,
+        "name": "Sharp X1"
+      },
+      {
+        "id": 78,
+        "name": "Sega CD"
+      },
+      {
+        "id": 79,
+        "name": "Neo Geo MVS"
+      },
+      {
+        "id": 80,
+        "name": "Neo Geo AES"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      },
+      {
+        "id": 136,
+        "name": "Neo Geo CD"
+      }
+    ],
+    "rating": 70.0710738982,
+    "storyline": "Geese Howard: a man feared by the world as the dark ruler of South Town. He shocked the land with his violent techniques and was confident that no one could ever top him. To rid himself of the man, Geese took the life the street champ, Jeff Bogard. However, several years later, three men arose to stop Geese\u0027s ambition. They were the sons of the dead Jeff, Terry and Andy Bogard, and Muai Thai champ, Joe Higashi.\n\nAfter Geese was defeated by them, he was believed to be dead. However, as time passed, a disturbing rumor began to float around the world.\n\nGeese is alive.\n\nHis elder half-brother, Wolfgang Krauser, took the reigns of the underworld after his younger brother\u0027s passing. However, the resurrected Geese deprives Krauser his seat of glory and the Bogard brothers burn with the flames of revenge. Terry and Andy hear where Geese is located.\n\n\"We\u0027re coming for you, Geese!\"\n\nA new legend is about to begin.",
+    "summary": "The GRANDMOTHER of all battles! 15 of the FATAL FURY series\u0027 top stars gather in the match of the millenium! Use the resurrected Geese Howard and Wolfgang Krauser in a dazzling arena! All you have ever wanted in a fighting game is here in FATAL FURY SPECIAL!",
+    "total_rating": 70.03553694909999,
+    "url": "https://www.igdb.com/games/fatal-fury-special"
+  },
+  {
+    "id": 15535,
+    "cover": {
+      "id": 126597,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2pol.jpg"
+    },
+    "first_release_date": 565315200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 53832,
+        "company": {
+          "id": 263,
+          "name": "Namco"
+        }
+      },
+      {
+        "id": 53833,
+        "company": {
+          "id": 263,
+          "name": "Namco"
+        }
+      },
+      {
+        "id": 53834,
+        "company": {
+          "id": 10317,
+          "name": "Micomsoft"
+        }
+      }
+    ],
+    "name": "Galaga \u002788",
+    "platforms": [
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 86,
+        "name": "TurboGrafx-16/PC Engine"
+      },
+      {
+        "id": 121,
+        "name": "Sharp X68000"
+      }
+    ],
+    "rating": 87.51313096300169,
+    "summary": "The gameplay in Galaga \u002788 is built on the same premise as that of the original Galaga game, but is in many ways more complex and more difficult. The game is divided into a series of 29 Stages distributed through eight Worlds. The starship Galaga accelerates between Stages and Worlds and even to higher dimensions (go to the section on Dimensional Travel below to find out more). \n \nWith the exception of the third and eighth, each World culminates in a Challenging Stage. There are six such stages to engage in any full game, and each begins with the on-screen announcement \"That\u0027s Galactic Dancin\u0027!\" and has its own YM2151-generated song to which the enemy formations dance. In any given Challenging Stage, both the design of the enemies and their dancing formations shall vary according to the player\u0027s current Dimension. As in Galaga, the objective is to destroy all forty enemies before they fly away off the screen. However, refraining completely from touching any controls for the duration of a Challenging Stage awards a \"secret bonus\" ranging in value from 10000 to 25000 points, and equal to the \"special bonus\" which would have been awarded for destroying all forty enemy aliens instead. \n \nGalaga \u002788 introduces a variety of new enemies and behaviors. Most of these special enemies are worth varying amounts of bonus points when destroyed. Some enemies can combine into larger enemies which take multiple hits to destroy, while others arrive in eggs, explode in a shower of fireworks, grow with multiple hits, or sport armor which makes them invincible while in formation. Certain enemies drop small formations of tiny creatures that wiggle their way down the screen, and still others can act as escorts to incoming groups of enemies and then quickly dive at the player before leaving the game. Most stages also include various obstacles which appear once the enemy formation has been assembled. These can be destroyed with either one or several shots, and the first one on each stage will leave a \"Warp Capsule\". \n \nAt the start of the game, the player can select how many Galaga starships to start with (one or two), affecting their number of remaining lives. The game ends after the final boss is defeated (or when the player\u0027s last ship is destroyed or captured) - in the latter case, the player can continue the game for an additional credit. The Game Over screen shows the player\u0027s hit-miss ratio and a visual representation of their progress. If the player reaches Stage 27, the game also shows a picture of the final boss (damaged if defeated, but silhouetted if not). If the arcade operator has set the \"continue\" option to \"on\", the player also cannot continue if he is defeated on Stages 27-29.",
+    "total_rating": 87.51313096300169,
+    "url": "https://www.igdb.com/games/galaga-88"
+  },
+  {
+    "id": 6405,
+    "aggregated_rating": 60.0,
+    "cover": {
+      "id": 181813,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wad.jpg"
+    },
+    "first_release_date": 747532800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 15259,
+        "company": {
+          "id": 781,
+          "name": "M2"
+        }
+      },
+      {
+        "id": 148241,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      },
+      {
+        "id": 148242,
+        "company": {
+          "id": 861,
+          "name": "Treasure"
+        }
+      }
+    ],
+    "name": "Gunstar Heroes",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      }
+    ],
+    "rating": 85.11417727991059,
+    "summary": "The Gunstar family are the protectors of the planet Gunstar 9. After many years of peace, vicious dictator Colonel Red kidnapped the Gunstar twins’ older brother and used mind control to make him his slave.",
+    "total_rating": 72.5570886399553,
+    "url": "https://www.igdb.com/games/gunstar-heroes"
+  },
+  {
+    "id": 78146,
+    "cover": {
+      "id": 135206,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2wbq.jpg"
+    },
+    "first_release_date": 741484800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 126680,
+        "company": {
+          "id": 15826,
+          "name": "Ukiyotei"
+        }
+      },
+      {
+        "id": 126681,
+        "company": {
+          "id": 2351,
+          "name": "Sony Imagesoft"
+        }
+      }
+    ],
+    "name": "Hook",
+    "platforms": [
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 78,
+        "name": "Sega CD"
+      }
+    ],
+    "rating": 70.5272330075121,
+    "summary": "In this video game adaption of the Steven Spielberg film Hook, the player takes the role of a grown-up Peter Pan, whose kids have been kidnapped by Captain Hook. Tinker Bell takes Peter back to Neverland where he must again become Pan and reclaim his children.",
+    "total_rating": 70.5272330075121,
+    "url": "https://www.igdb.com/games/hook--4"
+  },
+  {
+    "id": 185,
+    "cover": {
+      "id": 210213,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4i79.jpg"
+    },
+    "first_release_date": 631065600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36210,
+        "company": {
+          "id": 1233,
+          "name": "NMS Software"
+        }
+      },
+      {
+        "id": 36212,
+        "company": {
+          "id": 231,
+          "name": "Tec Toy Indústria de Brinquedos"
+        }
+      },
+      {
+        "id": 36213,
+        "company": {
+          "id": 2177,
+          "name": "Erbe Software"
+        }
+      },
+      {
+        "id": 56307,
+        "company": {
+          "id": 285,
+          "name": "Tiertex Design Studios"
+        }
+      },
+      {
+        "id": 56308,
+        "company": {
+          "id": 227,
+          "name": "U.S. Gold"
+        }
+      },
+      {
+        "id": 56309,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        }
+      }
+    ],
+    "name": "Indiana Jones and the Last Crusade: The Action Game",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 15,
+        "name": "Commodore C64/128"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 25,
+        "name": "Amstrad CPC"
+      },
+      {
+        "id": 26,
+        "name": "ZX Spectrum"
+      },
+      {
+        "id": 27,
+        "name": "MSX"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 74.9253332958057,
+    "summary": "A two-fisted action game from the people who brought you the smash hit movie.\n\nThe chase is on...all the way to the greatest treasure in history, the Holy Grail. And if you can survive the treacherous caves of Colorado...the medieval catacombs of Venice...the deadly ramparts of Schloss Brunwald...and the cunning traps of the Grail Temple...then you\u0027ve earned your whip and your hat!\n\nWhip those bad guys...as only Indy can! Relive the greatest action scenes from the greatest Indy movie of them all.\n\nIt\u0027s red hot, slam-bam action, Indiana Jones and LucasFilm style!",
+    "total_rating": 74.9253332958057,
+    "url": "https://www.igdb.com/games/indiana-jones-and-the-last-crusade-the-action-game"
+  },
+  {
+    "id": 12735,
+    "cover": {
+      "id": 130001,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2sb5.jpg"
+    },
+    "first_release_date": 631065600,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Ivan \u0027\u0027Ironman\u0027\u0027 Stewart\u0027s Super Off Road",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 15,
+        "name": "Commodore C64/128"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 26,
+        "name": "ZX Spectrum"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 61,
+        "name": "Atari Lynx"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 70.22989793810521,
+    "summary": "Enter the world of off-road racing as 4 vehicles will face each other, on a series of tracks which are based around flipped and reversed versions of a core selection. Fame, glory and bikini clad women await your victories and the taste of dirt awaits if you fail. Let a computer car beat you and you lose one of your 3 credits. \n \nSuccessful races bring more money, which can be used to soup up their machine. Boosts to top speed, grip and acceleration can be purchased, and your nitro boost must be kept topped up. If you are desperate for upgrades, you can buy into your spare credits. \n \nOnly your off-road driving abilities will be enough to pull you to first place in these races. Play alone or with up to 3 other players (depending on the version) in this classic arcade game.",
+    "total_rating": 70.22989793810521,
+    "url": "https://www.igdb.com/games/ivan-ironman-stewarts-super-off-road"
+  },
+  {
+    "id": 4368,
+    "cover": {
+      "id": 4813,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/tqp1jimkvmx7djfzjzo8.jpg"
+    },
+    "first_release_date": 757296000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 145953,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        }
+      },
+      {
+        "id": 145954,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        }
+      },
+      {
+        "id": 145955,
+        "company": {
+          "id": 578,
+          "name": "Gremlin Interactive"
+        }
+      },
+      {
+        "id": 145956,
+        "company": {
+          "id": 1271,
+          "name": "Ocean Software"
+        }
+      },
+      {
+        "id": 145957,
+        "company": {
+          "id": 16783,
+          "name": "Malibu Games"
+        }
+      },
+      {
+        "id": 145958,
+        "company": {
+          "id": 678,
+          "name": "Black Pearl Software"
+        }
+      }
+    ],
+    "name": "Jungle Strike",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 114,
+        "name": "Amiga CD32"
+      }
+    ],
+    "rating": 77.8327715532129,
+    "summary": "A sequel to Desert Strike: Return to the Gulf (a best-seller released the previous year) and the second instalment in the Strike series. Jungle Strike retained its predecessor\u0027s core mechanics and expanded on the model with additional vehicles and settings. The game was well received by most critics upon release, with the Mega Drive release receiving critical acclaim from their respective reviewers. Publications praised its gameplay, strategy, design, controls and graphics, although there were some complaints regarding the interface and difficulty.",
+    "total_rating": 77.8327715532129,
+    "url": "https://www.igdb.com/games/jungle-strike"
+  },
+  {
+    "id": 15241,
+    "cover": {
+      "id": 141860,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co31gk.jpg"
+    },
+    "first_release_date": 662601600,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36010,
+        "company": {
+          "id": 227,
+          "name": "U.S. Gold"
+        }
+      },
+      {
+        "id": 36011,
+        "company": {
+          "id": 7210,
+          "name": "Anco"
+        }
+      },
+      {
+        "id": 36012,
+        "company": {
+          "id": 285,
+          "name": "Tiertex Design Studios"
+        }
+      },
+      {
+        "id": 36013,
+        "company": {
+          "id": 191,
+          "name": "Imagineer"
+        }
+      },
+      {
+        "id": 36014,
+        "company": {
+          "id": 2355,
+          "name": "Enigma Variations"
+        }
+      },
+      {
+        "id": 36015,
+        "company": {
+          "id": 10063,
+          "name": "Misawa Entertainment"
+        }
+      }
+    ],
+    "name": "Kick Off 2",
+    "platforms": [
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 70.1787818974603,
+    "summary": "Viewed top-down, the controls involve trapping the ball under your foot, giving you time to prepare passes. Running with the ball is tricky at first, as it doesn\u0027t stick to your foot the way it did in contemporary football games. Complex moves such as overhead kicks, back-heels and long-range through-ball passes can be completed with practice.",
+    "total_rating": 70.1787818974603,
+    "url": "https://www.igdb.com/games/kick-off-2"
+  },
+  {
+    "id": 4239,
+    "aggregated_rating": 67.6,
+    "cover": {
+      "id": 100880,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co25u8.jpg"
+    },
+    "first_release_date": 666489600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 20299,
+        "company": {
+          "id": 764,
+          "name": "Psygnosis"
+        }
+      },
+      {
+        "id": 20300,
+        "company": {
+          "id": 536,
+          "name": "DMA Design"
+        }
+      },
+      {
+        "id": 137818,
+        "company": {
+          "id": 251,
+          "name": "Sunsoft"
+        }
+      }
+    ],
+    "name": "Lemmings",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 25,
+        "name": "Amstrad CPC"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 50,
+        "name": "3DO Interactive Multiplayer"
+      },
+      {
+        "id": 61,
+        "name": "Atari Lynx"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 114,
+        "name": "Amiga CD32"
+      },
+      {
+        "id": 306,
+        "name": "Satellaview"
+      }
+    ],
+    "rating": 75.9903210184818,
+    "summary": "A unique mindboggling game of multiple skill levels. Take command of the wackiest collection of misdirected rodents ever seen on your screen.",
+    "total_rating": 71.7951605092409,
+    "url": "https://www.igdb.com/games/lemmings"
+  },
+  {
+    "id": 8307,
+    "cover": {
+      "id": 115955,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2hgz.jpg"
+    },
+    "first_release_date": 757296000,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 20302,
+        "company": {
+          "id": 536,
+          "name": "DMA Design"
+        }
+      },
+      {
+        "id": 20303,
+        "company": {
+          "id": 764,
+          "name": "Psygnosis"
+        }
+      }
+    ],
+    "name": "Lemmings 2: The Tribes",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 89.5282147625504,
+    "summary": "By now, you\u0027ll probably be aware of the horrible plight the Lemmings face. Not only do they have to leave their lovely little hovels for good,but they also have to escape their island before they perish in the Darkness that\u0027s coming. Your objective therefore is to save as many Lemmings as possible from each tribe and help them escape the Island.",
+    "total_rating": 89.5282147625504,
+    "url": "https://www.igdb.com/games/lemmings-2-the-tribes"
+  },
+  {
+    "id": 2710,
+    "cover": {
+      "id": 2675,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/x4r9hc97zh6hetkcfoy1.jpg"
+    },
+    "first_release_date": 415324800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57715,
+        "company": {
+          "id": 2067,
+          "name": "Dempa Shimbunsha"
+        }
+      },
+      {
+        "id": 95672,
+        "company": {
+          "id": 13956,
+          "name": "Namco Limited"
+        }
+      },
+      {
+        "id": 149159,
+        "company": {
+          "id": 13956,
+          "name": "Namco Limited"
+        }
+      }
+    ],
+    "name": "Mappy",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 27,
+        "name": "MSX"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 77,
+        "name": "Sharp X1"
+      },
+      {
+        "id": 125,
+        "name": "PC-8801"
+      },
+      {
+        "id": 152,
+        "name": "FM-7"
+      },
+      {
+        "id": 157,
+        "name": "NEC PC-6000 Series"
+      }
+    ],
+    "rating": 70.33814993308769,
+    "summary": "The player guides Mappy the police mouse through the mansion of the cats called Mewkies (Meowky in the U.S. version) to retrieve stolen goods. The player uses a left-right joystick to move Mappy and a single button to operate doors. The mansion has six floors of hallways in which the stolen items are stashed.",
+    "total_rating": 70.33814993308769,
+    "url": "https://www.igdb.com/games/mappy"
+  },
+  {
+    "id": 2246,
+    "cover": {
+      "id": 127847,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2qnb.jpg"
+    },
+    "first_release_date": 473299200,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 41645,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        }
+      },
+      {
+        "id": 41648,
+        "company": {
+          "id": 11247,
+          "name": "Mindscape, Inc."
+        }
+      },
+      {
+        "id": 41649,
+        "company": {
+          "id": 2404,
+          "name": "Tengen"
+        }
+      },
+      {
+        "id": 41650,
+        "company": {
+          "id": 1783,
+          "name": "Midway Home Entertainment"
+        }
+      },
+      {
+        "id": 41651,
+        "company": {
+          "id": 1137,
+          "name": "Milton Bradley"
+        }
+      },
+      {
+        "id": 41652,
+        "company": {
+          "id": 8108,
+          "name": "Virgin Games"
+        }
+      },
+      {
+        "id": 56740,
+        "company": {
+          "id": 1746,
+          "name": "Atari Games Corporation"
+        }
+      },
+      {
+        "id": 56741,
+        "company": {
+          "id": 1746,
+          "name": "Atari Games Corporation"
+        }
+      },
+      {
+        "id": 56742,
+        "company": {
+          "id": 2072,
+          "name": "Home Data"
+        }
+      }
+    ],
+    "name": "Marble Madness",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 15,
+        "name": "Commodore C64/128"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 22,
+        "name": "Game Boy Color"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 75,
+        "name": "Apple II"
+      },
+      {
+        "id": 115,
+        "name": "Apple IIGS"
+      },
+      {
+        "id": 118,
+        "name": "FM Towns"
+      },
+      {
+        "id": 121,
+        "name": "Sharp X68000"
+      },
+      {
+        "id": 149,
+        "name": "PC-98"
+      }
+    ],
+    "rating": 76.04187217466409,
+    "summary": "Marble Madness is an isometric platform game in which the player manipulates an onscreen marble from a third-person perspective. The player controls the marble\u0027s movements with a trackball, though most home versions use game controllers with directional pads. The aim of the game is for the player to complete six maze-like, isometric race courses before a set amount of time expires. When a player completes a race, the remaining time is added to the next race\u0027s allotted time. The game also allows two players to compete against each other. \n \nCourses are populated with various objects and enemies designed to obstruct the player. As the game progresses, the courses become increasingly difficult and introduce more enemies and obstacles. Each course has a distinct visual theme. For example, the first race, titled \"Practice\", is a simple course that is much shorter than the others, while the fifth race, named \"Silly\", features polka-dot patterns and is oriented in a direction opposite from the other courses",
+    "total_rating": 76.04187217466409,
+    "url": "https://www.igdb.com/games/marble-madness"
+  },
+  {
+    "id": 8775,
+    "cover": {
+      "id": 216012,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4moc.jpg"
+    },
+    "first_release_date": 783648000,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 21604,
+        "company": {
+          "id": 2166,
+          "name": "Supersonic Software"
+        }
+      },
+      {
+        "id": 21605,
+        "company": {
+          "id": 115,
+          "name": "Codemasters"
+        }
+      }
+    ],
+    "name": "Micro Machines 2: Turbo Tournament",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      }
+    ],
+    "rating": 84.4520885454621,
+    "summary": "Micro Machines 2: Turbo Tournament featured cars that require different handling techniques for each course and also hovercraft and helicopters. There are different playing modes including \"head-to-head\", in which each player earns points by driving a full screen ahead of the opponent. TV presenter Violet Berlin features as a playable driver. The MS-DOS version featured a track editor.\nA selling point for the Sega Genesis/Mega Drive version was the J-Cart, a cartridge including two control ports, thus eliminating the need for a 4-player adaptor. It also included a \u0027pad-sharing\u0027 feature which allowed 2 players to share a single joypad; thus it enabled 8 players to compete simultaneously, on certain tracks.",
+    "total_rating": 84.4520885454621,
+    "url": "https://www.igdb.com/games/micro-machines-2-turbo-tournament"
+  },
+  {
+    "id": 1618,
+    "aggregated_rating": 83.3333333333333,
+    "cover": {
+      "id": 90797,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y25.jpg"
+    },
+    "first_release_date": 712713600,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36654,
+        "company": {
+          "id": 287,
+          "name": "Acclaim Entertainment"
+        }
+      },
+      {
+        "id": 36655,
+        "company": {
+          "id": 387,
+          "name": "Sculptured Software"
+        }
+      },
+      {
+        "id": 36656,
+        "company": {
+          "id": 1098,
+          "name": "Probe Software"
+        }
+      },
+      {
+        "id": 36657,
+        "company": {
+          "id": 2424,
+          "name": "Arena Entertainment"
+        }
+      },
+      {
+        "id": 115898,
+        "company": {
+          "id": 17160,
+          "name": "Virgin Interactive Entertainment"
+        }
+      },
+      {
+        "id": 115899,
+        "company": {
+          "id": 327,
+          "name": "Midway Games"
+        }
+      },
+      {
+        "id": 115903,
+        "company": {
+          "id": 566,
+          "name": "Midway"
+        }
+      }
+    ],
+    "name": "Mortal Kombat",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 78,
+        "name": "Sega CD"
+      }
+    ],
+    "rating": 68.1261279697972,
+    "storyline": "Seven martial artists from Earth must battle in sorcerer Shang Tsung\u0027s super secret tournament. For the past 9 of these tournaments, Shang Tsung\u0027s four-armed mutant bodyguard Goro has won all of them. Should he win the tenth, Earth will be left at the mercy of Shang Tsung\u0027s Outworld. Playable characters include Raiden, the Thunder God invited to fight in the tournament, in human (and thus killable) form; Liu Kang, a Shaolin monk determined to stop Shang Tsung; Johnny Cage, a Hollywood movie star who wants the publicity; Sonya Blade, a US Special Forces agent; Kano, a tyrant being pursued by Sonya Blade; Sub-Zero, a mercenary ninja with orders to assassinate Shang Tsung and Scorpion, a murdered ninja who has been brought back from the dead to try and kill Sub-Zero, the man who murdered him.",
+    "summary": "Mortal Kombat is a side-scrolling fighting game. Fighting is set as one-on-one combat, allowing each player to perform a variety of punches, kicks, and special moves in order to defeat their opponent. When the opponent faces their second round loss, the winner can perform a finishing move called a \"Fatality\" on the loser. The Fatality is a move unique to each fighter that graphically kills the loser in a blood-soaked finale.",
+    "total_rating": 75.72973065156525,
+    "url": "https://www.igdb.com/games/mortal-kombat--2"
+  },
+  {
+    "id": 1619,
+    "cover": {
+      "id": 90794,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y22.jpg"
+    },
+    "first_release_date": 733795200,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 22891,
+        "company": {
+          "id": 566,
+          "name": "Midway"
+        }
+      },
+      {
+        "id": 115900,
+        "company": {
+          "id": 287,
+          "name": "Acclaim Entertainment"
+        }
+      },
+      {
+        "id": 115901,
+        "company": {
+          "id": 532,
+          "name": "Probe Entertainment"
+        }
+      },
+      {
+        "id": 115902,
+        "company": {
+          "id": 387,
+          "name": "Sculptured Software"
+        }
+      }
+    ],
+    "name": "Mortal Kombat II",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "PlayStation"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 30,
+        "name": "Sega 32X"
+      },
+      {
+        "id": 32,
+        "name": "Sega Saturn"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 75.7054505584297,
+    "storyline": "Following his defeat, Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and restores Tsung\u0027s youth. He extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The tournament is dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will unbalance the furies and allow Outworld to subsume Earthrealm.",
+    "summary": "The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.",
+    "total_rating": 75.7054505584297,
+    "url": "https://www.igdb.com/games/mortal-kombat-ii"
+  },
+  {
+    "id": 7452,
+    "aggregated_rating": 84.0,
+    "cover": {
+      "id": 182148,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wjo.jpg"
+    },
+    "first_release_date": 381542400,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57752,
+        "company": {
+          "id": 2406,
+          "name": "Atari, Inc."
+        }
+      },
+      {
+        "id": 57753,
+        "company": {
+          "id": 1121,
+          "name": "Atarisoft"
+        }
+      },
+      {
+        "id": 57754,
+        "company": {
+          "id": 190,
+          "name": "Atari Corporation"
+        }
+      },
+      {
+        "id": 57755,
+        "company": {
+          "id": 10070,
+          "name": "Namco Hometek"
+        }
+      },
+      {
+        "id": 57756,
+        "company": {
+          "id": 2404,
+          "name": "Tengen"
+        }
+      },
+      {
+        "id": 57757,
+        "company": {
+          "id": 665,
+          "name": "Williams Entertainment"
+        }
+      },
+      {
+        "id": 106297,
+        "company": {
+          "id": 6364,
+          "name": "General Computer Corporation (GCC)"
+        }
+      },
+      {
+        "id": 106298,
+        "company": {
+          "id": 1436,
+          "name": "Bally Midway"
+        }
+      }
+    ],
+    "name": "Ms. Pac-Man",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 15,
+        "name": "Commodore C64/128"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 26,
+        "name": "ZX Spectrum"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 59,
+        "name": "Atari 2600"
+      },
+      {
+        "id": 60,
+        "name": "Atari 7800"
+      },
+      {
+        "id": 61,
+        "name": "Atari Lynx"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 65,
+        "name": "Atari 8-bit"
+      },
+      {
+        "id": 66,
+        "name": "Atari 5200"
+      },
+      {
+        "id": 71,
+        "name": "Commodore VIC-20"
+      },
+      {
+        "id": 75,
+        "name": "Apple II"
+      },
+      {
+        "id": 129,
+        "name": "Texas Instruments TI-99"
+      }
+    ],
+    "rating": 80.7067301302609,
+    "summary": "In 1982, a sequel to the incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man. This sequel continued on the \"eat the dots/avoid the ghosts\" gameplay of the original game, but added new features to keep the title fresh.\n\nLike her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics. One touch from any of these ghosts means a loss of life for Ms. Pac-Man.\n\nMs. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points. The Energizer power only lasts for a limited amount of time, as the ghost\u0027s eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.\n\nSurvive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of \"Junior\".",
+    "total_rating": 82.35336506513045,
+    "url": "https://www.igdb.com/games/ms-pac-man"
+  },
+  {
+    "id": 8995,
+    "aggregated_rating": 69.0,
+    "cover": {
+      "id": 102148,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co26tg.jpg"
+    },
+    "first_release_date": 738979200,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 34358,
+        "company": {
+          "id": 566,
+          "name": "Midway"
+        }
+      }
+    ],
+    "name": "NBA Jam",
+    "platforms": [
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 78,
+        "name": "Sega CD"
+      }
+    ],
+    "rating": 80.8620770976116,
+    "storyline": "NBA Jam, which featured 2-on-2 basketball, is one of the first real playable basketball arcade games, and is also one of the first sports games to feature NBA-licensed teams and players, and their real digitized likenesses.\nA key feature of NBA Jam is the exaggerated nature of the play - players jump many times their own height, making slam dunks that defy both human capabilities and the laws of physics. There are no fouls, free throws, or violations except goaltending and 24-second violations. This means the player is able to freely shove or elbow his opponent out of the way. Additionally, if a player makes three baskets in a row, he becomes \"on fire\" and has unlimited turbo and increased shooting precision. The \"on fire\" mode continues until the other team scores, or until the player who is \"on fire\" scores 4 additional consecutive baskets while \"on fire.\"\nThe game is filled with easter eggs, special features and players activated by initials or button/joystick combinations. For example, pressing A five times and right five times on any Genesis controller would activate \"Super Clean Floors\". This feature would cause characters to fall if they ran too fast or changed direction too quickly. And players can enter special codes to unlock hidden players, ranging from US President Bill Clinton to Hugo the Charlotte Hornets mascot. On the arcade machine, there is also a hidden \u0027tank\u0027 game that allows the player to run around a 3D wireframe field. In order to access this mode, however, the player must be able to toggle the on/off switch located behind the machine. While the game was powering back on, the player holds Up and all buttons on player 1 and Down and all buttons on player 2.",
+    "summary": "NBA Jam is a basketball arcade game published and developed by Midway in 1993. It is the first entry in the NBA Jam series. The main designer and programmer for this game was Mark Turmell. Midway had previously released such sports games as Arch Rivals in 1989, High Impact in 1990, and Super High Impact in 1991. The gameplay of NBA Jam is based on Arch Rivals, another 2-on-2 basketball video game. However, it was the release of NBA Jam that brought mainstream success to the genre.\nThe game became exceptionally popular, and generated a significant amount of money for arcades after its release, creating revenue of $1 billion in quarters. In early 1994, the Amusement \u0026 Music Operators Association reported that NBA Jam had become the highest-earning arcade game of all time.\nThe release of NBA Jam gave rise to a new genre of sports games which were based around fast, action-packed gameplay and exaggerated realism, a formula which Midway would also later apply to the sports of football (NFL Blitz), and hockey (2 on 2 Open Ice Challenge).",
+    "total_rating": 74.9310385488058,
+    "url": "https://www.igdb.com/games/nba-jam--1"
+  },
+  {
+    "id": 19507,
+    "cover": {
+      "id": 213162,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4kh6.jpg"
+    },
+    "first_release_date": 688953600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 99403,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        }
+      },
+      {
+        "id": 99404,
+        "company": {
+          "id": 25666,
+          "name": "Japan System House"
+        }
+      }
+    ],
+    "name": "Ninja Gaiden",
+    "platforms": [
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      }
+    ],
+    "rating": 70.0181005387427,
+    "storyline": "At the start of the game, Ryu Hayabusa is responding to an attack in his village as he rushes to a shrine where the leader of the attack was holed up in. Defeating him, the leader reveals that he was hired by a man named Totenkopf who was a smuggler who sells weapons to a variety of clients. Attempting to find out why would someone would steal the Dragon Sword, Ryu infiltrates the boat and kills Totenkopf, revealing a man named Mr. Tsin who he was selling weapons to in Hong Kong. Ryu defeats Mr. Tsin but not without being captured and brought to India where the person who wants the Dragonsword to start World War III reveals himself to be Shiragane, a demon capable of mind control and with the power of the Dragon Sword, can effectively have almost unlimited power in dominating over the minds of others. Ryu kills him and brings an end to another threat of the world.",
+    "summary": "Ninja Gaiden is an action video game released for the Game Gear in 1991 by Sega with license from Tecmo. It stars Ryu Hayabusa and is part of the Ninja Gaiden series, although it features a plot not connected to any of the other Ninja Gaiden games. The gameplay is similar to previous Ninja Gaiden games where the player jumps between platforms defeating and avoiding enemies.",
+    "total_rating": 70.0181005387427,
+    "url": "https://www.igdb.com/games/ninja-gaiden--2"
+  },
+  {
+    "id": 2051,
+    "cover": {
+      "id": 125104,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2oj4.jpg"
+    },
+    "first_release_date": 527990400,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 51318,
+        "company": {
+          "id": 227,
+          "name": "U.S. Gold"
+        }
+      },
+      {
+        "id": 51320,
+        "company": {
+          "id": 830,
+          "name": "Sega AM2"
+        }
+      },
+      {
+        "id": 51321,
+        "company": {
+          "id": 11247,
+          "name": "Mindscape, Inc."
+        }
+      },
+      {
+        "id": 51322,
+        "company": {
+          "id": 12755,
+          "name": "NEC Avenue, Ltd."
+        }
+      },
+      {
+        "id": 94559,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        }
+      },
+      {
+        "id": 94566,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        }
+      },
+      {
+        "id": 94568,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        }
+      }
+    ],
+    "name": "OutRun",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 15,
+        "name": "Commodore C64/128"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 25,
+        "name": "Amstrad CPC"
+      },
+      {
+        "id": 26,
+        "name": "ZX Spectrum"
+      },
+      {
+        "id": 27,
+        "name": "MSX"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 32,
+        "name": "Sega Saturn"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 86,
+        "name": "TurboGrafx-16/PC Engine"
+      }
+    ],
+    "rating": 73.9578536257068,
+    "summary": "OutRun is a racing game originating in the arcades. The player can race across varied terrain in a readily available Ferrari, complete with a female passenger, over a series of short tracks.\n\nGameplay is viewed form just above and behind the car. The roads are full of sharp bends and hazards, contact with which can cause the car to roll and lose the player\u0027s time. On each section of track there is a fork in the road, allowing the player to choose which direction he or she wishes to go in. The player has to to complete five track sections in total, out of the fifteen in the game.",
+    "total_rating": 73.9578536257068,
+    "url": "https://www.igdb.com/games/outrun"
+  },
+  {
+    "id": 2750,
+    "aggregated_rating": 78.6666666666667,
+    "cover": {
+      "id": 88193,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1w1t.jpg"
+    },
+    "first_release_date": 327801600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 54832,
+        "company": {
+          "id": 13522,
+          "name": "Kai Darius Kohl and Fredric Blåholtz"
+        }
+      },
+      {
+        "id": 56551,
+        "company": {
+          "id": 1121,
+          "name": "Atarisoft"
+        }
+      },
+      {
+        "id": 56552,
+        "company": {
+          "id": 2406,
+          "name": "Atari, Inc."
+        }
+      },
+      {
+        "id": 56553,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        }
+      },
+      {
+        "id": 56555,
+        "company": {
+          "id": 13721,
+          "name": "Wiz"
+        }
+      },
+      {
+        "id": 57395,
+        "company": {
+          "id": 2067,
+          "name": "Dempa Shimbunsha"
+        }
+      },
+      {
+        "id": 57397,
+        "company": {
+          "id": 10317,
+          "name": "Micomsoft"
+        }
+      },
+      {
+        "id": 64746,
+        "company": {
+          "id": 13956,
+          "name": "Namco Limited"
+        }
+      },
+      {
+        "id": 148714,
+        "company": {
+          "id": 10173,
+          "name": "Midway Manufacturing"
+        }
+      }
+    ],
+    "name": "Pac-Man",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 15,
+        "name": "Commodore C64/128"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 26,
+        "name": "ZX Spectrum"
+      },
+      {
+        "id": 27,
+        "name": "MSX"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 37,
+        "name": "Nintendo 3DS"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 55,
+        "name": "Legacy Mobile Device"
+      },
+      {
+        "id": 59,
+        "name": "Atari 2600"
+      },
+      {
+        "id": 65,
+        "name": "Atari 8-bit"
+      },
+      {
+        "id": 66,
+        "name": "Atari 5200"
+      },
+      {
+        "id": 67,
+        "name": "Intellivision"
+      },
+      {
+        "id": 71,
+        "name": "Commodore VIC-20"
+      },
+      {
+        "id": 74,
+        "name": "Windows Phone"
+      },
+      {
+        "id": 75,
+        "name": "Apple II"
+      },
+      {
+        "id": 77,
+        "name": "Sharp X1"
+      },
+      {
+        "id": 120,
+        "name": "Neo Geo Pocket Color"
+      },
+      {
+        "id": 125,
+        "name": "PC-8801"
+      },
+      {
+        "id": 127,
+        "name": "Fairchild Channel F"
+      },
+      {
+        "id": 129,
+        "name": "Texas Instruments TI-99"
+      },
+      {
+        "id": 149,
+        "name": "PC-98"
+      },
+      {
+        "id": 152,
+        "name": "FM-7"
+      },
+      {
+        "id": 157,
+        "name": "NEC PC-6000 Series"
+      }
+    ],
+    "rating": 77.6053741433027,
+    "summary": "Pac-Man is an arcade game developed by Namco and first released in Japan on May 22, 1980. it is considered one of the classics of the medium, virtually synonymous with video games, and an icon of 1980s popular culture. The player controls Pac-Man through a maze, eating pac-dots (also called pellets or just dots). When all pac-dots are eaten, Pac-Man is taken to the next stage. Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man. If an enemy touches Pac-Man, a life is lost and the Pac-Man itself withers and dies. When all lives have been lost, the game ends. Near the corners of the maze are four larger, flashing dots known as power pellets that provide Pac-Man with the temporary ability to eat the enemies. The enemies turn deep blue, reverse direction and usually move more slowly. When an enemy is eaten, its eyes remain and return to the center box where it is regenerated in its normal color. Blue enemies flash white to signal that they are about to become dangerous again and the length of time for which the enemies remain vulnerable varies from one stage to the next, generally becoming shorter as the game progresses.",
+    "total_rating": 78.13602040498469,
+    "url": "https://www.igdb.com/games/pac-man"
+  },
+  {
+    "id": 3024,
+    "cover": {
+      "id": 114645,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2ggl.jpg"
+    },
+    "first_release_date": 700444800,
+    "genres": [
+      {
+        "id": 30,
+        "name": "Pinball"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 7608,
+        "company": {
+          "id": 1042,
+          "name": "21st Century Entertainment"
+        }
+      },
+      {
+        "id": 21394,
+        "company": {
+          "id": 576,
+          "name": "Digital Illusions"
+        }
+      }
+    ],
+    "name": "Pinball Dreams",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 24,
+        "name": "Game Boy Advance"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      }
+    ],
+    "rating": 80.77291116622989,
+    "summary": "DICE’s first game was built by five friends from the Amiga demo group The Silents in their spare time. What started out as a demo idea soon became a full-fledged pinball simulation published by 21st Century Entertainment with the Amiga as the primary platform. Pinball Dreams captivated gamers and quickly became a cult hit.",
+    "total_rating": 80.77291116622989,
+    "url": "https://www.igdb.com/games/pinball-dreams"
+  },
+  {
+    "id": 2472,
+    "cover": {
+      "id": 88016,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vww.jpg"
+    },
+    "first_release_date": 623376000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 117079,
+        "company": {
+          "id": 2404,
+          "name": "Tengen"
+        }
+      },
+      {
+        "id": 117082,
+        "company": {
+          "id": 10068,
+          "name": "Masaya"
+        }
+      },
+      {
+        "id": 117083,
+        "company": {
+          "id": 129,
+          "name": "Konami"
+        }
+      },
+      {
+        "id": 117085,
+        "company": {
+          "id": 607,
+          "name": "Red Orb Entertainment"
+        }
+      },
+      {
+        "id": 125989,
+        "company": {
+          "id": 7041,
+          "name": "Ubisoft"
+        }
+      },
+      {
+        "id": 157022,
+        "company": {
+          "id": 4530,
+          "name": "Riverhillsoft"
+        }
+      },
+      {
+        "id": 157023,
+        "company": {
+          "id": 7301,
+          "name": "Arsys Software"
+        }
+      },
+      {
+        "id": 157024,
+        "company": {
+          "id": 17194,
+          "name": "Domark"
+        }
+      },
+      {
+        "id": 157025,
+        "company": {
+          "id": 608,
+          "name": "Broderbund"
+        }
+      }
+    ],
+    "name": "Prince of Persia",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 22,
+        "name": "Game Boy Color"
+      },
+      {
+        "id": 25,
+        "name": "Amstrad CPC"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 37,
+        "name": "Nintendo 3DS"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 75,
+        "name": "Apple II"
+      },
+      {
+        "id": 78,
+        "name": "Sega CD"
+      },
+      {
+        "id": 86,
+        "name": "TurboGrafx-16/PC Engine"
+      },
+      {
+        "id": 118,
+        "name": "FM Towns"
+      },
+      {
+        "id": 121,
+        "name": "Sharp X68000"
+      }
+    ],
+    "rating": 82.5936538242579,
+    "storyline": "The game is set in ancient Persia. While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is the Sultan\u0027s daughter (although the game never specifically mentions how). Jaffar locks her in a tower and orders her to become his wife, or she would die within 60 minutes (extended to 120 minutes in the Super NES version, which has longer and harder levels). The game\u0027s unnamed protagonist, whom the Princess loves, is thrown prisoner into the palace dungeons. In order to free her, he must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. But in addition to guards, various traps and dungeons, the protagonist is further hindered by his own doppelgänger, an apparition of his own self that is conjured out of a magic mirror.",
+    "summary": "The game is set in ancient Persia. While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. Jaffar\u0027s only obstacle to the throne is the Sultan\u0027s daughter (although the game never specifically mentions how). Jaffar locks her in a tower and orders her, under threat of execution, to become his wife. The game\u0027s nameless protagonist, whom the Princess loves, is thrown into the palace dungeons. The player must lead the protagonist out of the dungeons and to the palace tower, defeating Jaffar and freeing the Princess in under 60 minutes. In addition to guards, various traps and dungeons, the protagonist is further hindered by his own doppelgänger, an apparition of his own self that is conjured out of a magic mirror.",
+    "total_rating": 82.5936538242579,
+    "url": "https://www.igdb.com/games/prince-of-persia--2"
+  },
+  {
+    "id": 8195,
+    "cover": {
+      "id": 128533,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2r6d.jpg"
+    },
+    "first_release_date": 757296000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 19645,
+        "company": {
+          "id": 1238,
+          "name": "Virgin Games USA"
+        }
+      },
+      {
+        "id": 19646,
+        "company": {
+          "id": 1233,
+          "name": "NMS Software"
+        }
+      },
+      {
+        "id": 19648,
+        "company": {
+          "id": 1312,
+          "name": "Realtime Associates"
+        }
+      }
+    ],
+    "name": "RoboCop Versus The Terminator",
+    "platforms": [
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 87.26803357337539,
+    "summary": "In the crumbling ruins of a world under siege, man-machine meets machine-man as legendary cyborgs clash to decide the fate of the Earth. As Robocop, you must travel across time into a bloody future ruled by the mechanical forces of Skynet. You\u0027ll face attack from every angle, every moment. An unwavering army of Terminators, robotic dogs, spiders, Endoskeletons and a relentless arsenal of automated weapons await you in this veritable hell on earth. To destroy this enemy, free its hostages and finally pierce the dark heart of a killer computer. It will take something more powerful than plasma rifles and laser guns: the human mind that still burns within you.",
+    "total_rating": 87.26803357337539,
+    "url": "https://www.igdb.com/games/robocop-versus-the-terminator"
+  },
+  {
+    "id": 106274,
+    "cover": {
+      "id": 93130,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1zuy.jpg"
+    },
+    "first_release_date": 693878400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 67830,
+        "company": {
+          "id": 16042,
+          "name": "Ancient Co., Ltd."
+        }
+      },
+      {
+        "id": 106481,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      }
+    ],
+    "name": "Sonic the Hedgehog",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 37,
+        "name": "Nintendo 3DS"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 79.56979042527989,
+    "summary": "This is a completely different game than its 16-bit counterpart on the Genesis/Mega Drive, and was originally released on the Sega Game Gear and Master System.\n\nTo stop the evil Dr. Robotnik, Sonic must traverse six zones consisting of three levels each. Most of the zones are based on those in the original game, but some are entirely new, including a jungle environment and a huge airship. Other unique differences are one level that scrolls automatically and one that is aligned vertically instead of horizontally. Most of the enemies (mechanized animals, defeated by Sonic\u0027s spikes when jumping or rolling) and power-ups (speed-ups, shields, extra lives) are the same as in the Genesis version as well. Sonic can pick up golden rings for protection (when hit, he simply loses all of his rings instead of a life) and bonuses: 100 rings gain Sonic an extra life, and 50 remaining rings at the end of a level allow access to pinball-themed special stages full of bumpers and springs. The final level of a zone is always a boss fight against Robotnik. Some of the boss fights differ in the Master System and Game Gear versions of the game, with special designs for the handheld version due to the smaller visible screen area.\n\nSonic should also collect the six Chaos Emeralds to keep them from falling into Robotnik\u0027s hands. In a departure from the original game, these are not hidden in the special stages but somewhere in the regular levels.",
+    "total_rating": 79.56979042527989,
+    "url": "https://www.igdb.com/games/sonic-the-hedgehog--2"
+  },
+  {
+    "id": 112884,
+    "cover": {
+      "id": 93124,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1zus.jpg"
+    },
+    "first_release_date": 719193600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 71904,
+        "company": {
+          "id": 17015,
+          "name": "Aspect Co. Ltd"
+        }
+      },
+      {
+        "id": 141366,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      }
+    ],
+    "name": "Sonic the Hedgehog 2",
+    "platforms": [
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 37,
+        "name": "Nintendo 3DS"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 79.6521590025009,
+    "storyline": "South Island has been peaceful since Dr. Robotnik\u0027s defeat. Sonic, bored, decides to go on a journey in search of other adventures. Upon his return, he is shocked to find the island nearly abandoned. The only clue as to where all his friends might have disappeared to was Tails being chased by Dr. Robotnik. Sonic chases after him, but he is too late to save Tails. Sonic finds out that he\u0027s been kidnapped by Dr. Robotnik and is being held in a place called Crystal Egg. The price for Tails\u0027 safe return are the 6 Chaos Emeralds, to be delivered to 6 new boss robots. Thus, Sonic goes on a quest to find the Chaos Emeralds and rescue Tails.",
+    "summary": "The Sonic the Hedgehog 2 game marks the debut of Miles ‘Tails’ Prower, Sonic’s best pal, who is then seen recurring in the series. Assist Sonic to rescue Tails, who has been kidnapped by Dr. Robotnik in this platform video game. In exchange of Tails’ safety in this Sega Game Gear video game, the evil scientist asks that the six Chaos Emeralds be given away to six robots, so he can dominate the entire globe. With advanced ability of Sonic to smash through walls and grab back scattered rings hit by enemy, this platform video game is made even more exciting. Join the protagonist in the Sonic the Hedgehog 2 game as he rides a mine cart, a hang glider or skims through water surface in his rescue attempt. With seven zones and three acts each, this Sega Game Gear video game is a rollercoaster ride where you get rewarded at the end of each act.",
+    "total_rating": 79.6521590025009,
+    "url": "https://www.igdb.com/games/sonic-the-hedgehog-2--1"
+  },
+  {
+    "id": 54649,
+    "cover": {
+      "id": 29292,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/pkys2youpi2ktjxeoqzp.jpg"
+    },
+    "first_release_date": 690163200,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 30,
+        "name": "Pinball"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 56263,
+        "company": {
+          "id": 804,
+          "name": "Beam Software"
+        }
+      },
+      {
+        "id": 56264,
+        "company": {
+          "id": 1233,
+          "name": "NMS Software"
+        }
+      },
+      {
+        "id": 56265,
+        "company": {
+          "id": 10084,
+          "name": "Tiertex"
+        }
+      },
+      {
+        "id": 56266,
+        "company": {
+          "id": 1767,
+          "name": "Victor Interactive Software"
+        }
+      },
+      {
+        "id": 56267,
+        "company": {
+          "id": 388,
+          "name": "JVC"
+        }
+      },
+      {
+        "id": 56268,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        }
+      },
+      {
+        "id": 56269,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      },
+      {
+        "id": 56270,
+        "company": {
+          "id": 227,
+          "name": "U.S. Gold"
+        }
+      },
+      {
+        "id": 56271,
+        "company": {
+          "id": 9,
+          "name": "Lucasfilm Games"
+        }
+      },
+      {
+        "id": 56272,
+        "company": {
+          "id": 7041,
+          "name": "Ubisoft"
+        }
+      },
+      {
+        "id": 56273,
+        "company": {
+          "id": 6000,
+          "name": "Kixx"
+        }
+      },
+      {
+        "id": 56274,
+        "company": {
+          "id": 231,
+          "name": "Tec Toy Indústria de Brinquedos"
+        }
+      },
+      {
+        "id": 92437,
+        "company": {
+          "id": 10084,
+          "name": "Tiertex"
+        }
+      },
+      {
+        "id": 92438,
+        "company": {
+          "id": 227,
+          "name": "U.S. Gold"
+        }
+      }
+    ],
+    "name": "Star Wars",
+    "platforms": [
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 77.7188716776998,
+    "summary": "This game is based entirely on the first Star Wars movie, Episode IV: A New Hope. The opening of the game features an animated cinematic of the opening scene of the film. After that the player takes control of Luke Skywalker, driving the landspeeder across Tatooine in search of R2-D2. \n \nLuke Skywalker explores various locations throughout Tatooine, fighting numerous enemies including Jawas and Stormtroopers. The game features many locations from the movie including the Chalmun\u0027s Cantina in Mos Eisley where Luke meets Han Solo for the first time. This section of the game features a classic 8-bit rendition of the \"Cantina Band\" theme as played by the fictitious band, Figrin D\u0027an and the Modal Nodes, in the feature film. The game also contains many famous lines from the movie including Obi-Wan Kenobi\u0027s plea to Luke to join him in his trip to Alderann and Han Solo\u0027s description of the smell from the Death Star\u0027s trash compactor. \n \nThe player eventually lands on the Death Star and has to destroy the tractor beam to escape. The game also features first person segments of piloting the Millenium Falcon through that Asteroid field that was once Alderaan, and shooting down Tie Fighters in both the Millenium Falcon and an X-Wing fighter. The finale of the game features a top down view of Luke Skywalker\u0027s X-Wing flying through the Death Star trenches. After the player successfully fires a torpedo into the Death Star\u0027s exposed exhaust port, a cinematic of the Death Star exploding and Luke Skywalker being awarded a medal on Yavin IV is shown. \n \nThe game featured the characters Luke Skywalker, Han Solo, Obi-Wan Kenobi, Princess Leia, R2-D2, and C-3PO. The game however does not feature Darth Vader or Chewbacca, both of whom are major characters in the film.",
+    "total_rating": 77.7188716776998,
+    "url": "https://www.igdb.com/games/star-wars--1"
+  },
+  {
+    "id": 1652,
+    "cover": {
+      "id": 199311,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co49sf.jpg"
+    },
+    "first_release_date": 681091200,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36030,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        }
+      },
+      {
+        "id": 36031,
+        "company": {
+          "id": 229,
+          "name": "SEGA of America"
+        }
+      },
+      {
+        "id": 36032,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        }
+      }
+    ],
+    "name": "Streets of Rage",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 37,
+        "name": "Nintendo 3DS"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 76.3540163194363,
+    "storyline": "The once peaceful city has been taken over by a criminal syndicate, including factions of the police. Mass violence is now common and no one is safe. Adam Hunter (an accomplished boxer), Axel Stone (skilled martial artist) and Blaze Fielding (judo expert) are young ex-police officers who have quit the force to fight back against the syndicate.\nDepending on whether the game is played as one-player or a two-player co-op, and whether the player accepts or rejects Mr. X\u0027s offer to join his henchmen, there is a possibility for an alternate ending where the player becomes the new head of the crime syndicate.",
+    "summary": "Streets of Rage is a side-scrolling beat \u0027em up video game developed and published by Sega in 1991 for Mega Drive/Genesis. It is the first installment of the Bare Knuckle/Streets of Rage series which was followed by Streets of Rage 2 and Streets of Rage 3. The game was converted to Game Gear, Sega CD and Master System. In 2007, the game was released for the Wii\u0027s Virtual Console in North America and Europe, and in 2009 it was released for the iOS via the App Store. It was again made available as part of Sonic\u0027s Ultimate Genesis Collection in 2009 on both the PlayStation 3 and Xbox 360 consoles.",
+    "total_rating": 76.3540163194363,
+    "url": "https://www.igdb.com/games/streets-of-rage"
+  },
+  {
+    "id": 1653,
+    "aggregated_rating": 80.0,
+    "cover": {
+      "id": 199319,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co49sn.jpg"
+    },
+    "first_release_date": 724809600,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 78909,
+        "company": {
+          "id": 1568,
+          "name": "Ancient"
+        }
+      },
+      {
+        "id": 157725,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      },
+      {
+        "id": 157727,
+        "company": {
+          "id": 23611,
+          "name": "MNM Software"
+        }
+      },
+      {
+        "id": 157728,
+        "company": {
+          "id": 21727,
+          "name": "Shout! Designworks"
+        }
+      },
+      {
+        "id": 157729,
+        "company": {
+          "id": 2201,
+          "name": "H.I.C."
+        }
+      },
+      {
+        "id": 157735,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      }
+    ],
+    "name": "Streets of Rage 2",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 83.52399423846731,
+    "storyline": "One year has passed since Adam Hunter, Axel Stone, and Blaze Fielding successfully defeated Mr. X and broke the Syndicate Crime Organization\u0027s hold on the city. Peace has returned to the streets, the once-vacant neighborhoods are being repopulated, and prosperity has returned to the city. Adam has returned to the police force, while Axel and Blaze have moved out of the city and found jobs as a bodyguard and a dance instructor, respectively.\n\nOn the anniversary of their victory over the syndicate, Adam, Axel, and Blaze reunite to celebrate and talk about old times. The next day, however, Axel receives a frantic call from Adam\u0027s younger brother, Eddie \"Skate\" Hunter, who returned home from school to find their house completely wrecked. Worse, no one at the police station had seen or heard from Adam since early that morning. Axel and Blaze rush to investigate, and find a photo of Adam, in chains, laying at the feet of a man they know only too well. Mr. X and the Syndicate have returned, and, thirsty for revenge, have kidnapped Adam in the hopes of luring Axel and Blaze into a trap.\n\nAdam\u0027s disappearance marked the beginning of a new nightmare. Criminal elements swarmed out to reclaim the streets. Gangs roamed the parks, and bomb-wielding bikers made the roads deadly to travel at night. Beatings and lootings took place regularly and in broad daylight. Chaos reigned in the city, far worse than ever before.\n\nAxel and Blaze tried to contact their old friends at the force, the ones who once provided backup with heavy artillery. But everyone they knew had either been fired or transferred elsewhere. This time, the Syndicate was in complete control, and the two ex-cops were on their own.\n\nAssisted by Adam\u0027s brother Skate, and Axel\u0027s friend Max, Axel and Blaze set out to rescue their friend and destroy Mr. X once and for all. Standing in their way is the nastiest collection of punks and brawlers ever assembled. Add to that a force of professional fighters specially groomed to take them out of the picture!",
+    "summary": "Mr. X and the Syndicate are back, this time taking Adam hostage! Take on the role of Axel, Blaze, Skate, or Max to rescue Adam, and destroy Mr. X once and for all.",
+    "total_rating": 81.76199711923365,
+    "url": "https://www.igdb.com/games/streets-of-rage-2"
+  },
+  {
+    "id": 8066,
+    "cover": {
+      "id": 181920,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wdc.jpg"
+    },
+    "first_release_date": 725241600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 19077,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      },
+      {
+        "id": 19078,
+        "company": {
+          "id": 3694,
+          "name": "NuFX"
+        }
+      },
+      {
+        "id": 19079,
+        "company": {
+          "id": 4015,
+          "name": "Recreational Brainware"
+        }
+      }
+    ],
+    "name": "Taz-Mania",
+    "platforms": [
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 72.5455597873003,
+    "summary": "A video game adaptation of the Taz-Mania cartoon, starring the Tasmanian Devil. The SNES version is markedly different from the Sega platformer, as it plays far more like a racing game.",
+    "total_rating": 72.5455597873003,
+    "url": "https://www.igdb.com/games/taz-mania"
+  },
+  {
+    "id": 14207,
+    "cover": {
+      "id": 137624,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2y6w.jpg"
+    },
+    "first_release_date": 725760000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 30,
+        "name": "Pinball"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 124708,
+        "company": {
+          "id": 1271,
+          "name": "Ocean Software"
+        }
+      },
+      {
+        "id": 124709,
+        "company": {
+          "id": 1916,
+          "name": "Flying Edge"
+        }
+      },
+      {
+        "id": 124710,
+        "company": {
+          "id": 10535,
+          "name": "Acclaim"
+        }
+      },
+      {
+        "id": 124711,
+        "company": {
+          "id": 922,
+          "name": "Paramount Pictures"
+        }
+      },
+      {
+        "id": 124712,
+        "company": {
+          "id": 1147,
+          "name": "Arc Developments"
+        }
+      },
+      {
+        "id": 124713,
+        "company": {
+          "id": 10063,
+          "name": "Misawa Entertainment"
+        }
+      },
+      {
+        "id": 124841,
+        "company": {
+          "id": 512,
+          "name": "Ocean"
+        }
+      }
+    ],
+    "name": "The Addams Family",
+    "platforms": [
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 99,
+        "name": "Family Computer"
+      }
+    ],
+    "rating": 77.4423679263944,
+    "storyline": "The Addams Family\u0027s lawyer, Tully Alford, has taken control of their Gothic mansion and imprisoned Morticia Addams, Pugsley Addams, Wednesday Addams, Granny and Uncle Fester. The player controls Gomez Addams as he explores the various rooms in the mansion, locating items and battling monsters, until he has located all of the lost family members. The game has an almost completely open-world format, unusual for games of this era, which gives players the freedom to choose what order they will save the family members in. However, Gomez cannot save Morticia until the rest of the family is rescued.",
+    "summary": "The Addams Family is a side-scrolling platformer based on the movie of the same name. The player takes the role of Gomez who searches for his missing family members. To find them he has to explore six different parts of the mansion, e.g. the woods, which are basic platform levels: the player moves from left to right while jumping a lot and avoiding enemies. Some of them can be dispatched of by a jump on their heads.\n\nThe main difference to the other versions of this game is a unique level design. There is also a life meter which allows to get hit more often before dying.",
+    "total_rating": 77.4423679263944,
+    "url": "https://www.igdb.com/games/the-addams-family--1"
+  },
+  {
+    "id": 5357,
+    "cover": {
+      "id": 205780,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4es4.jpg"
+    },
+    "first_release_date": 694137600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 12948,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      },
+      {
+        "id": 12949,
+        "company": {
+          "id": 2363,
+          "name": "Technopop"
+        }
+      }
+    ],
+    "name": "The Amazing Spider-Man vs. The Kingpin",
+    "platforms": [
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 78,
+        "name": "Sega CD"
+      }
+    ],
+    "rating": 72.0783141474338,
+    "summary": "Spider-Man vs. The Kingpin is a video game produced by Sega of America and developed by Technopop initially on the Mega Drive/Genesis. It was ported internally by Sega of America for the Master System and Game Gear consoles, the latter being published by Acclaim Entertainment through its Flying Edge division. An updated version was also released for the Sega CD under the name of The Amazing Spider-Man vs. The Kingpin.\n\nAll versions of the video game are side-scrolling platform games, whereby the player controls superhero Spider-Man to battle various supervillains (Doctor Octopus, Sandman, The Lizard, Hobgoblin, Vulture, Mysterio, Electro, and Venom) to obtain the keys needed to disarm a nuclear bomb that the Kingpin has not only framed Spider-Man for stealing but plans to detonate within twenty-four hours. In the middle of the game, Spider-Man\u0027s wife Mary Jane Watson is also kidnapped by Venom.",
+    "total_rating": 72.0783141474338,
+    "url": "https://www.igdb.com/games/the-amazing-spider-man-vs-the-kingpin"
+  },
+  {
+    "id": 6480,
+    "aggregated_rating": 70.0,
+    "cover": {
+      "id": 132318,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2u3i.jpg"
+    },
+    "first_release_date": 757296000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 15407,
+        "company": {
+          "id": 141,
+          "name": "Virgin Interactive Entertainment (Europe) Ltd."
+        }
+      },
+      {
+        "id": 15408,
+        "company": {
+          "id": 2816,
+          "name": "Syrox Developments"
+        }
+      },
+      {
+        "id": 15409,
+        "company": {
+          "id": 1238,
+          "name": "Virgin Games USA"
+        }
+      },
+      {
+        "id": 15410,
+        "company": {
+          "id": 425,
+          "name": "Eurocom"
+        }
+      }
+    ],
+    "name": "The Jungle Book",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 82.7643419654299,
+    "summary": "The Jungle Book game is based on a Disney movie hero Mowgli. It\u0027s a scrolling arcade action game. You play as Mowgli and your goal is to gather all gems and return to one of your friends or your mother. The jungle is full of the nasty animals and you have to make your way through it safely.",
+    "total_rating": 76.38217098271495,
+    "url": "https://www.igdb.com/games/the-jungle-book"
+  },
+  {
+    "id": 3166,
+    "aggregated_rating": 80.0,
+    "cover": {
+      "id": 91002,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y7u.jpg"
+    },
+    "first_release_date": 786844800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 8148,
+        "company": {
+          "id": 1526,
+          "name": "Walt Disney Computer Software"
+        }
+      },
+      {
+        "id": 150222,
+        "company": {
+          "id": 141,
+          "name": "Virgin Interactive Entertainment (Europe) Ltd."
+        }
+      },
+      {
+        "id": 150223,
+        "company": {
+          "id": 1525,
+          "name": "Dark Technologies"
+        }
+      },
+      {
+        "id": 150224,
+        "company": {
+          "id": 113,
+          "name": "Westwood Studios"
+        }
+      },
+      {
+        "id": 150225,
+        "company": {
+          "id": 1888,
+          "name": "East Point Software LTD"
+        }
+      },
+      {
+        "id": 150226,
+        "company": {
+          "id": 2816,
+          "name": "Syrox Developments"
+        }
+      }
+    ],
+    "name": "The Lion King",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 18,
+        "name": "Nintendo Entertainment System (NES)"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 75.5726367681014,
+    "summary": "The Lion King brings to life the majesty and mystery of Africa thruogh the tale of Simba, a lion cub faced with the challenging transition to maturity. Believing himself to be responsible for his father\u0027s death, Simba enters the wilderness - where he finds salvation with Pumbaa the warthog and Timon the meerkat, and his education begins.\n\nTake control of the youg cub Simba and, through interaction as detailed as the lust terrain, guide him safely through.",
+    "total_rating": 77.7863183840507,
+    "url": "https://www.igdb.com/games/the-lion-king"
+  },
+  {
+    "id": 12910,
+    "cover": {
+      "id": 213161,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4kh5.jpg"
+    },
+    "first_release_date": 693187200,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 35975,
+        "company": {
+          "id": 229,
+          "name": "SEGA of America"
+        }
+      },
+      {
+        "id": 35976,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        }
+      },
+      {
+        "id": 35977,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        }
+      },
+      {
+        "id": 35978,
+        "company": {
+          "id": 231,
+          "name": "Tec Toy Indústria de Brinquedos"
+        }
+      }
+    ],
+    "name": "The Lucky Dime Caper starring Donald Duck",
+    "platforms": [
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      }
+    ],
+    "rating": 75.8586498377056,
+    "summary": "Sorceress Magica De Spell and her rotten ravens have kidnapped Huey, Dewey and Louie! Worse yet, she\u0027s snatched Uncle Scrooge\u0027s Lucky Dime! Join Donald Duck in his quest to prove that Magica is no match for him.",
+    "total_rating": 75.8586498377056,
+    "url": "https://www.igdb.com/games/the-lucky-dime-caper-starring-donald-duck"
+  },
+  {
+    "id": 18277,
+    "cover": {
+      "id": 107882,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2b8q.jpg"
+    },
+    "first_release_date": 620611200,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 55531,
+        "company": {
+          "id": 3704,
+          "name": "NEC Home Electronics"
+        }
+      },
+      {
+        "id": 55532,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        }
+      },
+      {
+        "id": 120790,
+        "company": {
+          "id": 1802,
+          "name": "Westone"
+        }
+      }
+    ],
+    "name": "Wonder Boy III: The Dragon\u0027s Trap",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 86,
+        "name": "TurboGrafx-16/PC Engine"
+      }
+    ],
+    "rating": 80.04255244551119,
+    "summary": "A direct sequel to Wonder Boy in Monster Land, you wander through the lands using multiple forms that each have different abilities. Each defeated boss unlocks a new form that has to be used to advance to a new area, while shops give you access to new equipment for money.",
+    "total_rating": 80.04255244551119,
+    "url": "https://www.igdb.com/games/wonder-boy-iii-the-dragons-trap"
+  },
+  {
+    "id": 2547,
+    "cover": {
+      "id": 118758,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2jmu.jpg"
+    },
+    "first_release_date": 709948800,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 162919,
+        "company": {
+          "id": 3212,
+          "name": "Gremlin Graphics Software Ltd."
+        }
+      },
+      {
+        "id": 162920,
+        "company": {
+          "id": 3212,
+          "name": "Gremlin Graphics Software Ltd."
+        }
+      },
+      {
+        "id": 162921,
+        "company": {
+          "id": 13448,
+          "name": "Cygnus Software Ltd."
+        }
+      },
+      {
+        "id": 162922,
+        "company": {
+          "id": 22239,
+          "name": "Amiga"
+        }
+      },
+      {
+        "id": 162923,
+        "company": {
+          "id": 1019,
+          "name": "GameTek, Inc."
+        }
+      },
+      {
+        "id": 162924,
+        "company": {
+          "id": 40026,
+          "name": "Nissho Iwai Infocom Systems Co., Ltd."
+        }
+      }
+    ],
+    "name": "Zool",
+    "platforms": [
+      {
+        "id": 13,
+        "name": "PC DOS"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System (SNES)"
+      },
+      {
+        "id": 29,
+        "name": "Sega Mega Drive/Genesis"
+      },
+      {
+        "id": 33,
+        "name": "Game Boy"
+      },
+      {
+        "id": 35,
+        "name": "Sega Game Gear"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 64,
+        "name": "Sega Master System"
+      },
+      {
+        "id": 73,
+        "name": "BlackBerry OS"
+      },
+      {
+        "id": 114,
+        "name": "Amiga CD32"
+      },
+      {
+        "id": 116,
+        "name": "Acorn Archimedes"
+      }
+    ],
+    "rating": 83.0941760198699,
+    "storyline": "His name is Zool, and he is a gremlin-like creature from another dimension. He is forced to land on the Earth, but his sole goal is to attain the prestigious ranking of a Ninja. To do that, Zool will have to travel through six worlds, each divided into three stages, defeat his enemies, and prove himself worthy of that title.",
+    "summary": "Zool is a fast-paced side-scrolling platformer. The protagonist can run, jump, climb walls, and shoot enemies. Power-ups for Zool are scattered across the levels. These include life-spending hearts, smart bombs, shields, more powerful jump-skill and a twin Zool. This \"twin\" makes imitates the original\u0027s motions a few seconds after he performs them.",
+    "total_rating": 83.0941760198699,
+    "url": "https://www.igdb.com/games/zool"
+  }
+]
