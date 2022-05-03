@@ -31,6 +31,10 @@ a:visited {
   text-align: left;
 }
 
+.linksList {
+  column-count: 2;
+}
+
 .gamesContainer {
   width: 50%;
   margin: auto;
@@ -47,6 +51,16 @@ a:visited {
   display: inline-block;
   text-align: left;
   width: 49%;
+}
+
+.queryContainer {
+  width: 49%;
+  margin: auto;
+  margin-bottom: 20px;
+  column-count: 3;
+  text-align: left;
+  break-inside: avoid-column;
+  page-break-inside: avoid;
 }
 
 .App-logo {

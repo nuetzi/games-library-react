@@ -16,7 +16,7 @@ export default function Library() {
                 {games.map((each, i) => {
                     return(
                         <div className="gamesDisplay" key={i}>
-                            <h3><a href={`/library/${each._id}`}>{each.title}</a></h3>
+                            <h4><a href={`/library/${each._id}`}>{each.title}</a></h4>
                             <a href={`/library/${each._id}`}><img src={`${each.cover}`} /></a>
                         </div>
                     );

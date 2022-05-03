@@ -1,17 +1,15 @@
-import TopRatedGames from "../queries/topRated.json";
+import GBAGames from "../queries/topGBA.json";
 
-export default function TopRated() {
+export default function NES() {
     return(
         <div className="queryPage">
-            <h2>Top Rated Games</h2>
-            <p><i>NOTE: Ratings are based on results from IGDP query, so take the results with a grain of salt</i></p> <br/>
+            <h2>Nintendo Game Boy Advance</h2>
             <div className="queryContainer">
-                {TopRatedGames.map((each, i) => {
+                {GBAGames.map((each, i) => {
                     return(
                         <ul>
                         <li key={i}>
                         <a href={each.id}>{each.name}</a> <br/>
-                        {/* <img src={`https:${each.cover.url}`} /> */}
                         </li>
                         </ul>
                     );

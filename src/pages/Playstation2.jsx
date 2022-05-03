@@ -1,17 +1,15 @@
-import TopRatedGames from "../queries/topRated.json";
+import PS2Games from "../queries/topPS2.json";
 
-export default function TopRated() {
+export default function NES() {
     return(
         <div className="queryPage">
-            <h2>Top Rated Games</h2>
-            <p><i>NOTE: Ratings are based on results from IGDP query, so take the results with a grain of salt</i></p> <br/>
+            <h2>Sony Playstation 2</h2>
             <div className="queryContainer">
-                {TopRatedGames.map((each, i) => {
+                {PS2Games.map((each, i) => {
                     return(
                         <ul>
                         <li key={i}>
                         <a href={each.id}>{each.name}</a> <br/>
-                        {/* <img src={`https:${each.cover.url}`} /> */}
                         </li>
                         </ul>
                     );
