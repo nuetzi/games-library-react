@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import { getGame, deleteGame,  } from "../services/libraryAPI";
+import { getGame } from "../services/libraryAPI";
 
-export default function Show() {
+export default function LibraryShow() {
     const nav = useNavigate();
     const { id } = useParams();
     const [game, setGame] = useState({});
@@ -21,14 +21,14 @@ export default function Show() {
             <li><b>Genre(s):</b> {game.genres} </li>
             <li><b>Year:</b> {game.year} </li>
             <li><b>Platforms:</b> {game.platforms} </li>
-            <li><b>Rating:</b> {game.rating}/100</li>
+            <li><b>Rating:</b> {game.rating} / 100</li>
             <li><b>Summary:</b> {game.summary} </li>
             <li><a href={`${game.url}`} target="_blank" rel="noopener noreferrer">More Info</a> </li>
             </ul>
             </div>
             <br/>
             <br/>
-            <button onClick={() => nav(`/${id}/edit`)}>Edit Game Info</button>
+            <button onClick={() => nav(`/library/${id}/edit`)}>Edit Game Info</button>
         </div>
     );
 }

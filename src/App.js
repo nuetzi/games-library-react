@@ -1,11 +1,15 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import Home from "./pages/Home";
-import Library from "./pages/Library";
 import AddGame from "./pages/AddGame";
-import Show from "./pages/Show";
+import Consoles from "./pages/Consoles";
 import Edit from "./pages/Edit";
 import ErrorPage from "./pages/ErrorPage";
+import Home from "./pages/Home";
+import Library from "./pages/Library";
+import LibraryShow from "./pages/LibraryShow";
+import QueryShow from "./pages/QueryShow";
+import SNES from "./pages/SNES";
+import TopRated from "./pages/TopRated";
 
 export default function App() {
   return (
@@ -21,10 +25,14 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/add" element={<AddGame />} />
-        <Route path="/library" element={<Library />} />
         <Route path="/undefined" element={<ErrorPage />} />
-        <Route path="/:id" element={<Show />} />
-        <Route path="/:id/edit" element={<Edit />} />
+        <Route path="/consoles" element={<Consoles />} />
+        <Route path="/snes" element={<SNES />} />
+        <Route path="/toprated" element={<TopRated />} />
+        <Route path="/library" element={<Library />} />
+        <Route path="/library/:id" element={<LibraryShow />} />
+        <Route path="/library/:id/edit" element={<Edit />} />
+        <Route path="/:id" element={<QueryShow />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
     </Router>

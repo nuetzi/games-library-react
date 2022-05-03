@@ -25,16 +25,16 @@ export default function Edit() {
             url: e.target.url.value
         };
         editGame(id, updatedGame);
-        nav(`/${id}`);
+        nav(`/library/${id}`);
     };
 
     const goBack = () => {
-        nav(`/${id}`);
+        nav(`/library/${id}`);
     };
 
     const removeGame = () => {
         deleteGame(id);
-        Navigate("/library");
+        nav("/library");
     };
 
     return(

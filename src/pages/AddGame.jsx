@@ -34,7 +34,7 @@ export default function AddGame() {
                     URL: <input type="text" name="url" /> <br/>
                     <br/>
                     Summary: <br/>
-                    <textarea name="summary" cols="100" rows="25"></textarea> <br/>
+                    <textarea name="summary" cols="100" rows="25"/> <br/>
                     <br/>
                     <br/>
                     <input type="submit" />

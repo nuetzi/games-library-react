@@ -1,11 +1,52 @@
 body {
+  color: #d28a16;
   text-align: center;
+  background-size: 100%;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../public/video-game-background-2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+a:link {
+  color: #a0a0a5;
+}
+
+a:hover {
+  color: #d0d0d5;
+}
+
+a:active {
+  color: #b0b0b5;
+}
+
+a:visited {
+  color: #606068;
+}
+.homeContainer {
+  width: 45%;
+  margin: auto;
+  text-align: left;
+}
+
+.gamesContainer {
+  width: 50%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 50px;
+}
+
+.gamesDisplay {
+
 }
 
 .showInfo {
   display: inline-block;
   text-align: left;
-  width: 50%;
+  width: 49%;
 }
 
 .App-logo {
