@@ -7,7 +7,7 @@ export default function Home() {
            <br/>
            The links below will allow you to explore games from numerous popular video game consoles. Again, I have opted to be selective in my choices, as there are a number of obscure and/or outdated consoles that lie beyond the scope of the games I am interested in listing. Also, due to the sheer volume of games available on the PC, I couldn't find an adequate way to represent them here. Fortunately, many great modern PC games are being ported to today's consoles.<br/>
            <br/>
-           I have also included a link to a small representation of my personal game library. These include games I have enjoyed, as well as a little information about each of them. This is a work in progress, so some links are broken and mobile view is probably broken - and my library isn't secured yet (please don't edit it).<br/>
+           I have also included a link to a small representation of my personal game library. These include games I have enjoyed, as well as a little information about each of them. This is a work in progress, so some links are broken and mobile view is definitely broken - and my library isn't secured yet (please don't edit it).<br/>
            <br/>
            <center>Thank you for visiting, and I hope you enjoy! <br/>
            <h2><a href="/library">My Game Library</a></h2> </center>
