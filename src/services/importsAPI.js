@@ -16,6 +16,17 @@ const TOP_XBOX_URL = "https://nuetzi-games-express.herokuapp.com/xbox/";
 const TOP_XBOX360_URL = "https://nuetzi-games-express.herokuapp.com/xbox360/";
 const TOP_XBOXONE_URL = "https://nuetzi-games-express.herokuapp.com/xboxone/";
 const TOP_XBOXSERIESX_URL = "https://nuetzi-games-express.herokuapp.com/xboxseriesx/";
+const TOP_GENESIS_URL = "https://nuetzi-games-express.herokuapp.com/topgenesis/";
+const TOP_SATURN_URL = "https://nuetzi-games-express.herokuapp.com/topsaturn/";
+const TOP_DREAMCAST_URL = "https://nuetzi-games-express.herokuapp.com/topdreamcast/";
+const TOP_GAMEBOY_URL = "https://nuetzi-games-express.herokuapp.com/topgameboy/";
+const TOP_GAMEBOYCOLOR_URL = "https://nuetzi-games-express.herokuapp.com/topgbc/";
+const TOP_GAMEBOYADVANCE_URL = "https://nuetzi-games-express.herokuapp.com/topgba/";
+const TOP_GAMEGEAR_URL = "https://nuetzi-games-express.herokuapp.com/topgamegear/";
+const TOP_NINTENDODS_URL = "https://nuetzi-games-express.herokuapp.com/topnintendods/";
+const TOP_3DS_URL = "https://nuetzi-games-express.herokuapp.com/top3ds/";
+const TOP_PSP_URL = "https://nuetzi-games-express.herokuapp.com/toppsp/";
+const TOP_PSVITA_URL = "https://nuetzi-games-express.herokuapp.com/toppsvita/";
 
 export function getTopRated() {
     const response = axios.get(`${TOP_RATED_URL}`);
@@ -99,6 +110,61 @@ export function getTopXboxOne() {
 
 export function getTopXboxSeriesX() {
     const response = axios.get(`${TOP_XBOXSERIESX_URL}`);
+    return response;
+};
+//////////////////////////////////////////////
+export function getTopGenesis() {
+    const response = axios.get(`${TOP_GENESIS_URL}`);
+    return response;
+};
+
+export function getTopSaturn() {
+    const response = axios.get(`${TOP_SATURN_URL}`);
+    return response;
+};
+
+export function getTopDreamcast() {
+    const response = axios.get(`${TOP_DREAMCAST_URL}`);
+    return response;
+};
+
+export function getTopGameGear() {
+    const response = axios.get(`${TOP_GAMEGEAR_URL}`);
+    return response;
+};
+
+export function getTopGameBoy() {
+    const response = axios.get(`${TOP_GAMEBOY_URL}`);
+    return response;
+};
+
+export function getTopGameBoyColor() {
+    const response = axios.get(`${TOP_GAMEBOYCOLOR_URL}`);
+    return response;
+};
+
+export function getTopGameBoyAdvance() {
+    const response = axios.get(`${TOP_GAMEBOYADVANCE_URL}`);
+    return response;
+};
+
+export function getTopNintendoDS() {
+    const response = axios.get(`${TOP_NINTENDODS_URL}`);
+    return response;
+};
+
+export function getTopNintendo3DS() {
+    const response = axios.get(`${TOP_3DS_URL}`);
+    return response;
+};
+
+export function getTopPSP() {
+    const response = axios.get(`${TOP_PSP_URL}`);
+    return response;
+};
+
+export function getTopPSVita() {
+    const response = axios.get(`${TOP_PSVITA_URL}`);
     return response;
 };
 
