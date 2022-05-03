@@ -17,7 +17,7 @@ export default function Wii() {
                     return(
                         <div className="importsDisplay" key={i}>
                             <h4><a href={`/${each._id}`}>{each.name}</a></h4>
-                            <a href={`${each.url}`}><img src={`https:${each.cover.url}`} alt={each.title}/></a>
+                            <a href={`${each.url}`} target="_blank" rel="noopener noreferrer"><img src={`https:${each.cover.url}`} alt={each.title}/></a>
                         </div>
                     );
                 })}
