@@ -1,17 +1,24 @@
-import PS2Games from "../queries/topPS2.json";
+import { useState, useEffect } from "react";
+import { getTopPS2 } from "../services/importsAPI";
 
-export default function NES() {
+export default function Playstation2() {
+    const [games, setGames] = useState([]);
+
+    useEffect(() => {
+        getTopPS2()
+        .then(res => setGames(res.data))
+    }, [games]);
+
     return(
-        <div className="queryPage">
+        <div className="libraryMain">
             <h2>Sony Playstation 2</h2>
-            <div className="queryContainer">
-                {PS2Games.map((each, i) => {
+            <div className="importsContainer">
+                {games.map((each, i) => {
                     return(
-                        <ul>
-                        <li key={i}>
-                        <a href={each.id}>{each.name}</a> <br/>
-                        </li>
-                        </ul>
+                        <div className="importsDisplay" key={i}>
+                            <h4><a href={`/${each._id}`}>{each.name}</a></h4>
+                            <a href={`${each.url}`}><img src={`https:${each.cover.url}`} alt={each.title}/></a>
+                        </div>
                     );
                 })}
             </div>

@@ -7,6 +7,11 @@ const TOP_GAMECUBE_URL = "https://nuetzi-games-express.herokuapp.com/topgamecube
 const TOP_WII_URL = "https://nuetzi-games-express.herokuapp.com/topwii/";
 const TOP_WIIU_URL = "https://nuetzi-games-express.herokuapp.com/topwiiu/";
 const TOP_SWITCH_URL = "https://nuetzi-games-express.herokuapp.com/topswitch/";
+const TOP_PS1_URL = "https://nuetzi-games-express.herokuapp.com/topps1/";
+const TOP_PS2_URL = "https://nuetzi-games-express.herokuapp.com/topps2/";
+const TOP_PS3_URL = "https://nuetzi-games-express.herokuapp.com/topps3/";
+const TOP_PS4_URL = "https://nuetzi-games-express.herokuapp.com/topps4/";
+const TOP_PS5_URL = "https://nuetzi-games-express.herokuapp.com/topps5/";
 
 export function getTopRated() {
     const response = axios.get(`${TOP_RATED_URL}`);
@@ -48,10 +53,30 @@ export function getTopSwitch() {
     return response;
 };
 
-// export function getTopRated() {
-//     const response = axios.get(`${TOP_RATED_URL}`);
-//     return response;
-// };
+export function getTopPS1() {
+    const response = axios.get(`${TOP_PS1_URL}`);
+    return response;
+};
+
+export function getTopPS2() {
+    const response = axios.get(`${TOP_PS2_URL}`);
+    return response;
+};
+
+export function getTopPS3() {
+    const response = axios.get(`${TOP_PS3_URL}`);
+    return response;
+};
+
+export function getTopPS4() {
+    const response = axios.get(`${TOP_PS4_URL}`);
+    return response;
+};
+
+export function getTopPS5() {
+    const response = axios.get(`${TOP_PS5_URL}`);
+    return response;
+};
 
 // export function getGame(id) {
 //     const response = axios.get(`${TOP_RATED_URL}${id}`);

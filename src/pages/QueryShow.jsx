@@ -21,7 +21,7 @@ export default function LibraryShow() {
             <li><b>Genre(s):</b> {game.genres} </li>
             <li><b>Year:</b> {game.year} </li>
             <li><b>Platforms:</b> {game.platforms} </li>
-            <li><b>Rating:</b> {game.rating}/100</li>
+            <li><b>Rating:</b> {game.rating} / 100</li>
             <li><b>Summary:</b> {game.summary} </li>
             <li><a href={`${game.url}`} target="_blank" rel="noopener noreferrer">More Info</a> </li>
             </ul>
