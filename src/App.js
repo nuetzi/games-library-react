@@ -1,6 +1,5 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import Nintendo3DS from "./pages/3DS";
 import AddGame from "./pages/AddGame";
 import Dreamcast from "./pages/Dreamcast";
 import Edit from "./pages/Edit";
@@ -16,6 +15,7 @@ import Library from "./pages/Library";
 import LibraryShow from "./pages/LibraryShow";
 import N64 from "./pages/N64";
 import NES from "./pages/NES";
+import Nintendo3DS from "./pages/Nintendo3DS";
 import NintendoDS from "./pages/NintendoDS";
 import Playstation1 from "./pages/Playstation1";
 import Playstation2 from "./pages/Playstation2";
@@ -49,7 +49,7 @@ export default function App() {
       <br/>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/3ds" element={<Nintendo3DS />} />
+        <Route path="/n3ds" element={<Nintendo3DS />} />
         <Route path="/add" element={<AddGame />} />
         <Route path="/dreamcast" element={<Dreamcast />} />
         <Route path="/gameboy" element={<GameBoy />} />

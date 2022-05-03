@@ -27,7 +27,7 @@ export default function Home() {
                     <li><a href="/gbc">Game Boy Color</a></li>
                     <li><a href="/gba">Game Boy Advance</a></li>
                     <li><a href="/nds">Nintendo DS</a></li>
-                    <li><a href="/3ds">Nintendo 3DS</a></li>
+                    <li><a href="/n3ds">Nintendo 3DS</a></li>
                     <br/>
                     <b>Sega</b>
                     <li><a href="/genesis">Genesis</a></li>
